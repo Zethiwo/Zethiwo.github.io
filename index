@@ -1,4 +1,4 @@
-git clone https://github.com/username/username.github.io
+git clone https://github.com/Zethiwo/Zethiwo.github.io
 cd username.github.io
 echo "test" > index.html
 git add --all
