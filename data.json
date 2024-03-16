@@ -842,7 +842,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2352"
 			},
-						                                               "level" : "12",
+						                                       {        "level" : "12",
                                                                 "comment" : "★23-24/ST4-5",
 				"title": "MESMERA",
 				"subtitle": "[魑魅魍魎]",
