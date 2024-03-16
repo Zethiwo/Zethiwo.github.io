@@ -1,4 +1,5 @@
-[           {
+[           
+{
                                                                 "level" : "0",
                                                                 "comment" : "☆11/SL0",
 				"title": "reveL",
@@ -20,7 +21,7 @@
 				"artist": "Orange Vox+ ft.AKA",
 				"subartist": "Movie:AiLANE/Obj by Zethiwo",
 				"md5": "1b9a91895c374540062ca9708bef632b",
-				"sha256": "3fc0e17e7534320e9917723538219967d62fa83eaaffbb4467c69ca5b95a67b0",,
+				"sha256": "3fc0e17e7534320e9917723538219967d62fa83eaaffbb4467c69ca5b95a67b0",
                                                                 "url" : "http://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.230101%20patch/newsongs/reveL.rar",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2239"
 			},
@@ -410,7 +411,7 @@
 				"subartist": "obj by Zethiwo",
 				"md5": "bbaa3cc8e6329e786925131d90da9140",
 				"sha256": "b586bf02899dc38f70c6aadf298dc12cac647328ba438eca6613418ed8c33c49",
-                                                                "url" : "	https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=142",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=214&event=142",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3332"
 			},
 			{"level" : "6",
@@ -892,5 +893,4 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3738"
 				}
-
 			]
