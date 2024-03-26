@@ -752,19 +752,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3022"
 			},
-							{
-			                                               "level" : "8",
-                                                                "comment" : "★19/SL12-ST0",
-				"title": "Messier 333",
-				"subtitle": "-Zealot-",
-				"genre": "HARD TECHNO",
-				"artist": "sun3 / BGA:Johnny / obj by Zethiwo",
-				"subartist": "",
-				"md5": "e91291b48fac99b12bcb22fd8c1772bd",
-				"sha256": "b4ab3db9e3d5eee89171f42c429c4c4b91e3cee769bdfbc15231f280395e6b10",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/2939"
-			},
+
 							{
 			                                               "level" : "8",
                                                                 "comment" : "★19/SL12-ST0",
@@ -1025,7 +1013,7 @@
                                                                 "url_diff" : "https://stellabms.xyz/upload/3125"
 			},
 			{
-			                                               "level" : "13",
+			                                               "level" : "@o@",
                                                                 "comment" : "★25/ST7-8",
 				"title": "Hypertext Transfer Protocol",
 				"subtitle": "[@DEADLOOK@]",
