@@ -1024,5 +1024,70 @@
 				"sha256": "d4b620e1415ec57862a28c2fb5f006e78504390e178234a50b1510fe78a66933",
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3738"
-				}
+				},			
+			{
+			                                               "level" : "?o?",
+                                                                "comment" : "★5",
+				"title": "Better Graphic Animation",
+				"subtitle": "-破片-",
+				"genre": "DEJAVU",
+				"artist": "A-ZERO Project + ルゼ/obj by Zethiwo",
+				"subartist": "",
+				"md5": "f68b97f2371305dee75be40682f74991",
+				"sha256": "607684dd2eee33fe46435c9236544c8d4ba22156f1fffb37bbcbe5932d1156b4",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123",
+                                                                "url_diff" : "https://stellabms.xyz/upload/2559"
+			},		
+			{
+			                                               "level" : "?o?",
+                                                                "comment" : "★10",
+				"title": "Better Graphic Animation",
+				"subtitle": "-虚象-",
+				"genre": "DEJAVU",
+				"artist": "A-ZERO Project + ルゼ/obj by Zethiwo",
+				"subartist": "",
+				"md5": "87bc00cf3222dffd38fd87222b5d8a98",
+				"sha256": "91646ea4b9e47b39177fe6903d4faa423fb8e64eff6d1094ea036211d97c809e",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123",
+                                                                "url_diff" : "https://stellabms.xyz/upload/2559"
+			},			
+			{
+			                                               "level" : "?o?",
+                                                                "comment" : "★16",
+				"title": "Better Graphic Animation",
+				"subtitle": "-表象-",
+				"genre": "DEJAVU",
+				"artist": "A-ZERO Project + ルゼ/obj by Zethiwo",
+				"subartist": "",
+				"md5": "947a55bdda8ba555d99612121e53d4b8",
+				"sha256": "a08c9cb1de15fe55b403aee6e139ebd401ce4efdc4a8f1f754d12556eb455b75",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123",
+                                                                "url_diff" : "https://stellabms.xyz/upload/2559"
+			},			
+			{
+			                                               "level" : "?o?",
+                                                                "comment" : "★23",
+				"title": "Better Graphic Animation",
+				"subtitle": "",
+				"genre": "DEJAVU",
+				"artist": "A-ZERO Project + ルゼ/obj by Zethiwo",
+				"subartist": "",
+				"md5": "09cd537daab58aa06c3f864993cf77cf",
+				"sha256": "977c1a846f4fe8453a2698550c18d43ecff15aec8bb234c6583ab41d643b7e45",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123",
+                                                                "url_diff" : "https://stellabms.xyz/upload/2559"
+			},						
+			{
+			                                               "level" : "?o?",
+                                                                "comment" : "★12？,foon譜面",
+				"title": "SHERRY FLIP",
+				"subtitle": "[ULTIMATUM]",
+				"genre": "Electro swing",
+				"artist": "えびです meets ポート・フィリップ",
+				"subartist": "illust:Matsuba/obj by Zethiwo",
+				"md5": "37e6b515dbcf0e502e73452f5bbbf34e",
+				"sha256": "f467c1f7aa06f9c685db048a1dd900cd9858ff7b4d95cf58d2eae0252655b4ab",
+                                                                "url" : "",
+                                                                "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=127"
+			}
 			]
