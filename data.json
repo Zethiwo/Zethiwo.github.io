@@ -25,6 +25,19 @@
                                                                 "url" : "http://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.230101%20patch/newsongs/reveL.rar",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2239"
 			},
+				{
+			                                               "level" : "1",
+                                                                "comment" : "★2/SL1",
+				"title": "SHERRY FLIP",
+				"subtitle": "[Intoxicated]",
+				"genre": "Electro swing",
+				"artist": "えびです meets ポート・フィリップ//obj by Zethiwo",
+				"subartist": "illust:Matsuba",
+				"md5": "7ae3e0de39ed7d05ac2ff5aedd22b791",
+				"sha256": "82c74f422eb639f5ec2628d0cf6b06508d32fac8322c5a5baf453ec3d0412914",
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=127",
+                                                                "url_diff" : ""
+			},
 							{
 			                                               "level" : "1",
                                                                 "comment" : "★3/SL2",
@@ -64,6 +77,19 @@
                                                                 "url" : "http://www.yamajet.com/archives/category/bms-%e4%b8%80%e8%a6%a7",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3175"
 			},
+				{
+			                                               "level" : "2",
+                                                                "comment" : "★5/SL3",
+				"title": "多重極展開",
+				"subtitle": "[Spatial Conversion]",
+				"genre": "INSI break",
+				"artist": "Rocky",
+				"subartist": "obj by Zethiwo",
+				"md5": "ba6c829ed1e4027dd5632339af0acf0e",
+				"sha256": "7b90caa4ba78533ac7fced25883e222c25958c6ac5b9b4d3219cd3bf4e6f50b5",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
 								{
 			                                               "level" : "2",
                                                                 "comment" : "★6-7/SL3-4",
@@ -194,6 +220,19 @@
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=382&event=140",
                                                                 "url_diff" : "https://darksabun.github.io/event/bofet/"
 			},
+				{
+			                                               "level" : "4",
+                                                                "comment" : "★10/SL6",
+				"title": "永劫の沙漏",
+				"subtitle": "-RE:Reversal-",
+				"genre": "Techno",
+				"artist": "ATEMAK",
+				"subartist": "obj by Zethiwo",
+				"md5": "9e54929c47f4dd525d0f21aca6817889",
+				"sha256": "5ea4af6c24e17c02822f32dffe03687f587cafa82fcb8c654f4a891e8b1b04c6",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
 			{
 			                                               "level" : "4",
                                                                 "comment" : "★10/SL5",
@@ -220,6 +259,19 @@
                                                                 "url" : "https://bms.kyouko.moe/torrent/BMS_Library/%E4%B8%AD%E9%80%94%E8%A6%9A%E9%86%92%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%20(by%20Sleepless%20feat.%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB%EF%BC%8Fexemoss).rar",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3735"
 			},
+				{
+			                                               "level" : "4",
+                                                                "comment" : "★12/SL7",
+				"title": "Blue Dragoon",
+				"subtitle": "[bLuE aNd WhItE]",
+				"genre": "Energetic Trance",
+				"artist": "kanone",
+				"subartist": "obj.shan underground",
+				"md5": "f1fbc4d741febed2c06508d936bd5668",
+				"sha256": "5c742e5b626d12f67bb7c56798aec7ce51b887c37b1c5a8243f93be1d7c1a637",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
 							{
 			                                               "level" : "4",
                                                                 "comment" : "★10-11/SL5-6",
@@ -363,6 +415,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2768"
 			},
+				{
+			                                               "level" : "5",
+                                                                "comment" : "★13/SL8",
+				"title": "cold planet",
+				"subtitle": "[Zaffer]",
+				"genre": "TECHNO",
+				"artist": "knot",
+				"subartist": "obj.Zethiwo",
+				"md5": "bec9a632908b5c5fe2d431e383d6b5f7",
+				"sha256": "1516237b1d282c977dd6c2a83e2aff544a104debd4cc23273ba0c43e93dee7b2",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
 							{
 			                                               "level" : "5",
                                                                 "comment" : "★13/SL8",
@@ -452,6 +517,32 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=83",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3174"
 			},
+					{
+			                                               "level" : "6",
+                                                                "comment" : "★14/SL8-9",
+				"title": "Infinite Galaxy",
+				"subtitle": "[Limit Collapse]",
+				"genre": "Energetic Trance",
+				"artist": "NS-Factory × deadblue238 × hi-low",
+				"subartist": "obj by Zethiwo",
+				"md5": "23282705c68036d7a98c7d3aa3f381ec",
+				"sha256": "d66518f7ffb634508e2c849195f81d9fa75ce5059a1aebda50545b67a05c4f79",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+				{
+			                                               "level" : "6",
+                                                                "comment" : "★16/SL10",
+				"title": "多重極展開",
+				"subtitle": "[Spatial Deconstruction]",
+				"genre": "INSI break",
+				"artist": "Rocky",
+				"subartist": "obj by Zethiwo",
+				"md5": "6a67d20e8510d01f99c4c1a2b5741fe8",
+				"sha256": "5a87a3cd8225eea1636e34c29f5623e604bd963689e658c4fb4243c34c35d6d8",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
 							{
 			                                               "level" : "6",
                                                                 "comment" : "★16/SL10",
@@ -479,6 +570,19 @@
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=59&event=137",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3124"
 			},
+				{
+			                                               "level" : "6",
+                                                                "comment" : "★15-16/SL10",
+				"title": "CO5M1C R4ILR0AD",
+				"subtitle": "[夢の箱舟]",
+				"genre": "Hi-NRGTECH Trance",
+				"artist": "kanone",
+				"subartist": "obj by Zethiwo",
+				"md5": "1aaa5db0dfc108b00320acb087712d2b",
+				"sha256": "7362c38160fb2fdd051c3fccfe3b3f86a47c068ee2125a659722a55b95c5f44b",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
 								{
 			                                               "level" : "6",
                                                                 "comment" : "★16-17/SL10-11",
@@ -725,6 +829,45 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2942"
 			},
+								{
+			                                               "level" : "9",
+                                                                "comment" : "★19-20/ST0",
+				"title": "Messier 333",
+				"subtitle": "[NEO Zealot]",
+				"genre": "HARD TECHNO",
+				"artist": "sun3 / BGA:Johnny",
+				"subartist": "obj.Zethiwo",
+				"md5": "bb6663701180abcfa61e1cd0ce39e21a",
+				"sha256": "e4c46d86f70a6c1c45f15b2bec90d06c7aec1cf705aa937be3d1dd03e88cc376",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
+				{
+			                                               "level" : "9",
+                                                                "comment" : "★20-21/ST1",
+				"title": "Toki (Sound piercer's Timesucker Remix)",
+				"subtitle": "[Beyond The Century]",
+				"genre": "Freeform / Gabber",
+				"artist": "puru twk. sound piercer (feat.Hee Bun.D)",
+				"subartist": "obj.Zethiwo",
+				"md5": "9598dabf2219f477a9d540aee11bfb3c",
+				"sha256": "51e6378e408802d78afa85d7c4267916275fdbdd51181186484c8a0d933d29dd",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},	
+				{
+			                                               "level" : "9",
+                                                                "comment" : "★20/ST0",
+				"title": "Gothic System -C.H.S_NRG Mix-",
+				"subtitle": "[Mechanical Tyrant]",
+				"genre": "FREEFORM HARDCORE",
+				"artist": "DJ TECHNORCH Remixed by tpa:pbr",
+				"subartist": "obj by Zethiwo",
+				"md5": "bce596e3275ac4e98255c585001dc114",
+				"sha256": "97f9e734369c5dd23b89d699faa78da5e91468159c680085abc6800fc4005e9f",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
 							{
 			                                               "level" : "9",
                                                                 "comment" : "★20-21/ST0-1",
@@ -790,19 +933,7 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=458&event=110",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3604"
 			},
-										{
-			                                               "level" : "11",
-                                                                "comment" : "★23/ST3-4",
-				"title": "Quickening 2 the RED",
-				"subtitle": "[BANQUET DANCEFLOOR]",
-				"genre": "ETHEREAL ELECTRONIC",
-				"artist": "Loki-mitsu + Mentalstock",
-				"subartist": "obj by Zethiwo",
-				"md5": "a5cbc41e32a8da6a82632bb3eeac2424",
-				"sha256": "237d030e133080c93e7a02a2039c87440005a872b35b8e271bca288052580e3a",
-                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=65",
-                                                                "url_diff" : "https://stellabms.xyz/upload/3606"
-			},
+
 							{
 			                                               "level" : "11",
                                                                 "comment" : "★23/ST3",
@@ -853,6 +984,19 @@
 				"sha256": "1d388a99e9dfb4ff3cb92c3a0f1b772fa49e3d6f7bc41c226bcc9af78192ea4f",
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=140",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3479"
+			},
+											{
+			                                               "level" : "12",
+                                                                "comment" : "★23/ST4-5",
+				"title": "Quickening 2 the RED",
+				"subtitle": "[BANQUET DANCEFLOOR]",
+				"genre": "ETHEREAL ELECTRONIC",
+				"artist": "Loki-mitsu + Mentalstock",
+				"subartist": "obj by Zethiwo",
+				"md5": "a5cbc41e32a8da6a82632bb3eeac2424",
+				"sha256": "237d030e133080c93e7a02a2039c87440005a872b35b8e271bca288052580e3a",
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=268&event=65",
+                                                                "url_diff" : "https://stellabms.xyz/upload/3606"
 			},
 							{
 			                                               "level" : "12",
