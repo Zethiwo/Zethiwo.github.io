@@ -439,7 +439,7 @@
 				"md5": "9c5944d7b3cb8378705d18dfe336853f",
 				"sha256": "012ae1d5b1bfdebd758e856cb6f3826f8d7fc8b83cf9bf5fec66caedf362ffec",
                                                                 "url" : "",
-                                                                "url_diff" : ""
+                                                                "url_diff" : "https://stellabms.xyz/upload/3811"
 			},	
 							{
 			                                               "level" : "5",
@@ -541,7 +541,7 @@
 				"md5": "23282705c68036d7a98c7d3aa3f381ec",
 				"sha256": "d66518f7ffb634508e2c849195f81d9fa75ce5059a1aebda50545b67a05c4f79",
                                                                 "url" : "",
-                                                                "url_diff" : ""
+                                                                "url_diff" : "https://stellabms.xyz/upload/3809"
 			},
 				{
 			                                               "level" : "6",
@@ -594,7 +594,7 @@
 				"md5": "1aaa5db0dfc108b00320acb087712d2b",
 				"sha256": "7362c38160fb2fdd051c3fccfe3b3f86a47c068ee2125a659722a55b95c5f44b",
                                                                 "url" : "",
-                                                                "url_diff" : ""
+                                                                "url_diff" : "https://stellabms.xyz/upload/3808"
 			},	
 								{
 			                                               "level" : "6",
@@ -752,6 +752,19 @@
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=151&event=140",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3178"
 			},
+											{
+			                                               "level" : "8",
+                                                                "comment" : "★19/SL12",
+				"title": "H.S : Hadron Strike",
+				"subtitle": "[H Stand For HAZARD_fix]",
+				"genre": "Cyber Core",
+				"artist": "zest:rave",
+				"subartist": "obj by Zethiwo",
+				"md5": "5de86ec1316e33981c65d9cbf2901488",
+				"sha256": "abf4dd623b3893bca91b67d0c498741d4f07418073b78f0c680275b175b5b07e",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
 							{
 			                                               "level" : "8",
                                                                 "comment" : "★18/SL12",
@@ -791,6 +804,19 @@
 				"sha256": "d5acc7bcb293a764f8a16868996ff03c861fcbeb0d7a167340fe60574747670b",
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=140",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3480"
+			},
+												{
+			                                               "level" : "9",
+                                                                "comment" : "★20-21/st0-1",
+				"title": "Alastor",
+				"subtitle": "[走馬灯]",
+				"genre": "DarkBreaks",
+				"artist": "鳩",
+				"subartist": "obj by Zethiwo",
+				"md5": "2c56b2ac2b300dd749cc424690bd9a76",
+				"sha256": "40912ac3378ce468fe7154d96ab74b291dfc4763df21a5faeb17f1493d78d96f",
+                                                                "url" : "",
+                                                                "url_diff" : ""
 			},
 			{
 			                                               "level" : "9",
@@ -838,8 +864,8 @@
 				"genre": "HARD TECHNO",
 				"artist": "sun3 / BGA:Johnny",
 				"subartist": "obj.Zethiwo",
-				"md5": "bb6663701180abcfa61e1cd0ce39e21a",
-				"sha256": "e4c46d86f70a6c1c45f15b2bec90d06c7aec1cf705aa937be3d1dd03e88cc376",
+				"md5": "0130ffbfc8d390bf9df9d8135f1f0079",
+				"sha256": "1f9aad6de569515f0c6a123f2822b682fbdf1486bc89acb6dd4a0e783281bc81",
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},	
@@ -867,7 +893,7 @@
 				"md5": "bce596e3275ac4e98255c585001dc114",
 				"sha256": "97f9e734369c5dd23b89d699faa78da5e91468159c680085abc6800fc4005e9f",
                                                                 "url" : "",
-                                                                "url_diff" : ""
+                                                                "url_diff" : "https://stellabms.xyz/upload/3810"
 			},
 							{
 			                                               "level" : "9",
@@ -1100,7 +1126,7 @@
 				"subartist": "illust:Matsuba/obj by Zethiwo",
 				"md5": "37e6b515dbcf0e502e73452f5bbbf34e",
 				"sha256": "f467c1f7aa06f9c685db048a1dd900cd9858ff7b4d95cf58d2eae0252655b4ab",
-                                                                "url" : "",
-                                                                "url_diff" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=127"
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=345&event=127",
+                                                                "url_diff" : ""
 			}
 			]
