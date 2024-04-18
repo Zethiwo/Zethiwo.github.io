@@ -402,6 +402,19 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=71&event=102",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3481"
 			},
+					{
+			                                               "level" : "5",
+                                                                "comment" : "★13/SL7-8",
+				"title": "HAPPY CIRCULATION",
+				"subtitle": "[Photo†Synthesis]",
+				"genre": "HAPPY HARDCORE",
+				"artist": "enxel",
+				"subartist": "obj by Zethiwo",
+				"md5": "cd4a3085b892cc608853d0bb5a9f9cb1",
+				"sha256": "5a2e520e29835efb5a13b9955c1c74d88c81986fe09a270703216e53e8c17814",
+                                                                "url" : "https://web.archive.org/web/20191224141644/http://black-funeral.kill.jp/HAPPY_CIRCULATION.zip/",
+                                                                "url_diff" : ""
+			},
 										{
 			                                               "level" : "5",
                                                                 "comment" : "★13-14/SL8",
@@ -532,6 +545,19 @@
 			},
 					{
 			                                               "level" : "6",
+                                                                "comment" : "★14-15/SL9-10",
+				"title": "NS22",
+				"subtitle": "[Hell Force]",
+				"genre": "SAMPLING HARDCORE",
+				"artist": "3034",
+				"subartist": "obj by Zethiwo",
+				"md5": "55bbe1462d895bb51f5ff21f747169e3",
+				"sha256": "3d5c321ed9db3cb9c4c67ffbaab75d895c903c30fe2a63471b8dc1aeec24a871",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+					{
+			                                               "level" : "6",
                                                                 "comment" : "★14/SL8-9",
 				"title": "Infinite Galaxy",
 				"subtitle": "[Limit Collapse]",
@@ -545,7 +571,7 @@
 			},
 				{
 			                                               "level" : "6",
-                                                                "comment" : "★16/SL10",
+                                                                "comment" : "★16-17/SL10-11",
 				"title": "多重極展開",
 				"subtitle": "[Spatial Deconstruction]",
 				"genre": "INSI break",
@@ -568,6 +594,19 @@
 				"sha256": "a9ace1fd6e208d0285b9ecb0d04c7eed65d3284416167b87acf2b30dffb13702",
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=110&num=459",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2883"
+			},
+					{
+			                                               "level" : "6",
+                                                                "comment" : "★16/SL10",
+				"title": "Psychedelic Ritual",
+				"subtitle": "[Trauma]",
+				"genre": "psycore",
+				"artist": "でぱみぃ vs utzbo",
+				"subartist": "obj by Zethiwo",
+				"md5": "be74c5cec98253a444316e8f55d57963",
+				"sha256": "5f4ec964dfaae078e4d02320049a72cb52cb393dc99bae12b1398cb17246c4f7",
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=133",
+                                                                "url_diff" : ""
 			},
 
 							{
@@ -778,6 +817,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3022"
 			},
+					{
+			                                               "level" : "8",
+                                                                "comment" : "★18-19/SL12",
+				"title": "Engine",
+				"subtitle": "[Critical Rampage]",
+				"genre": "Neuro Drum & Bass",
+				"artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
+				"subartist": "obj by Zethiwo",
+				"md5": "aac2cd2b2e074e8ed895fea5905c3eba",
+			"sha256":"1963a05c83fdda908a0d9a431113bec4b3bd738e09f6b970a79bac3424b0126e",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
 
 							{
 			                                               "level" : "8",
@@ -920,6 +972,19 @@
 				"sha256": "e2d001c2be42f3abfcf30f1b3d713a4bc9a3771ec532bb08a0b82838a7747016",
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2328"
+			},
+								{
+			                                               "level" : "10",
+                                                                "comment" : "★21/ST1",
+				"title": "Psychedelic Ritual",
+				"subtitle": "[Devastation]",
+				"genre": "	psycore",
+				"artist": "でぱみぃ vs utzbo",
+				"subartist": "obj by Zethiwo",
+				"md5": "d6734160c8cd168e2670fb3e8c4a2195",
+				"sha256": "cb8f7a11b5353c00bd672628183c1785f8d3472eaa9fc7ed9a7fd551ef911c95",
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=133",
+                                                                "url_diff" : ""
 			},
 							{
 			                                               "level" : "10",
