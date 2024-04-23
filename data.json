@@ -543,19 +543,7 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=83",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3174"
 			},
-					{
-			                                               "level" : "6",
-                                                                "comment" : "★14-15/SL9-10",
-				"title": "NS22",
-				"subtitle": "[Hell Force]",
-				"genre": "SAMPLING HARDCORE",
-				"artist": "3034",
-				"subartist": "obj by Zethiwo",
-				"md5": "55bbe1462d895bb51f5ff21f747169e3",
-				"sha256": "3d5c321ed9db3cb9c4c67ffbaab75d895c903c30fe2a63471b8dc1aeec24a871",
-                                                                "url" : "",
-                                                                "url_diff" : ""
-			},
+
 					{
 			                                               "level" : "6",
                                                                 "comment" : "★14/SL8-9",
@@ -804,6 +792,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},
+						{
+			                                               "level" : "8",
+                                                                "comment" : "★18/SL12",
+				"title": "NS22",
+				"subtitle": "[Hell Force]",
+				"genre": "SAMPLING HARDCORE",
+				"artist": "3034",
+				"subartist": "obj by Zethiwo",
+				"md5": "55bbe1462d895bb51f5ff21f747169e3",
+				"sha256": "3d5c321ed9db3cb9c4c67ffbaab75d895c903c30fe2a63471b8dc1aeec24a871",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
 							{
 			                                               "level" : "8",
                                                                 "comment" : "★18/SL12",
@@ -817,20 +818,6 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3022"
 			},
-					{
-			                                               "level" : "8",
-                                                                "comment" : "★18-19/SL12",
-				"title": "Engine",
-				"subtitle": "[Critical Rampage]",
-				"genre": "Neuro Drum & Bass",
-				"artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
-				"subartist": "obj by Zethiwo",
-				"md5": "aac2cd2b2e074e8ed895fea5905c3eba",
-			"sha256":"1963a05c83fdda908a0d9a431113bec4b3bd738e09f6b970a79bac3424b0126e",
-                                                                "url" : "",
-                                                                "url_diff" : ""
-			},
-
 							{
 			                                               "level" : "8",
                                                                 "comment" : "★19/SL12-ST0",
@@ -934,6 +921,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},	
+						{
+			                                               "level" : "9",
+                                                                "comment" : "★20/ST0",
+				"title": "Engine",
+				"subtitle": "[Critical Rampage]",
+				"genre": "Neuro Drum & Bass",
+				"artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
+				"subartist": "obj by Zethiwo",
+				"md5": "aac2cd2b2e074e8ed895fea5905c3eba",
+			"sha256":"1963a05c83fdda908a0d9a431113bec4b3bd738e09f6b970a79bac3424b0126e",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
 				{
 			                                               "level" : "9",
                                                                 "comment" : "★20/ST0",
