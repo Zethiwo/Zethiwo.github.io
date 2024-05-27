@@ -168,6 +168,19 @@
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=68&event=131",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3066"
 			},
+								{
+			                                               "level" : "3",
+                                                                "comment" : "★8-9/SL5",
+				"title": "ELIMINATOR",
+				"subtitle": "[Last†Ditch]",
+				"genre": "DYSTOPIA",
+				"artist": "Cosmograph / yusi.",
+				"subartist": "obj by Zethiwo",
+				"md5": "cc5a713ac5020b253cb620bef1d07855",
+				"sha256": "e6a57bfcd3639f553271adebef533e404f51973d1a5a0e6db319c07a2a4b5e24",
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
+                                                                "url_diff" : "https://stellabms.xyz/upload/3929"
+			},
 										{
 			                                               "level" : "3",
                                                                 "comment" : "★7-8/SL4",
@@ -404,6 +417,19 @@
 			},
 					{
 			                                               "level" : "5",
+                                                                "comment" : "★12-13/SL7-8",
+				"title": "Misdirection",
+				"subtitle": "[迷宮]",
+				"genre": "CONFUSION",
+				"artist": "enxel vs D.J.Nero",
+				"subartist": "obj by Zethiwo",
+				"md5": "78bd2c732409ccdb2cf88e8850f2d3ee",
+				"sha256": "ec1d384dae8f03dfa4ab02ed37988689ada63813700c3663c8cdcb79b118911f",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+					{
+			                                               "level" : "5",
                                                                 "comment" : "★13/SL7-8",
 				"title": "HAPPY CIRCULATION",
 				"subtitle": "[Photo†Synthesis]",
@@ -413,7 +439,7 @@
 				"md5": "cd4a3085b892cc608853d0bb5a9f9cb1",
 				"sha256": "5a2e520e29835efb5a13b9955c1c74d88c81986fe09a270703216e53e8c17814",
                                                                 "url" : "https://web.archive.org/web/20191224141644/http://black-funeral.kill.jp/HAPPY_CIRCULATION.zip/",
-                                                                "url_diff" : ""
+                                                                "url_diff" : "https://stellabms.xyz/upload/3928"
 			},
 										{
 			                                               "level" : "5",
@@ -803,7 +829,7 @@
 				"md5": "55bbe1462d895bb51f5ff21f747169e3",
 				"sha256": "3d5c321ed9db3cb9c4c67ffbaab75d895c903c30fe2a63471b8dc1aeec24a871",
                                                                 "url" : "",
-                                                                "url_diff" : ""
+                                                                "url_diff" : "https://stellabms.xyz/upload/3930"
 			},
 							{
 			                                               "level" : "8",
@@ -973,7 +999,20 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2328"
 			},
-								{
+									{
+			                                               "level" : "10",
+                                                                "comment" : "★21/ST1",
+				"title": "ELIMINATOR",
+				"subtitle": "[Jack†Pot]",
+				"genre": "DYSTOPIA",
+				"artist": "Cosmograph / yusi.",
+				"subartist": "obj by Zethiwo",
+				"md5": "758f69b418d25fd3ce8c47af12d98005",
+				"sha256": "a1beaef1568a7327bc480a54dc7c75b27f7bdf39d5a04cc00d5c350038e35979",
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
+                                                                "url_diff" : "https://stellabms.xyz/upload/3929"
+			},		
+	{
 			                                               "level" : "10",
                                                                 "comment" : "★21/ST1",
 				"title": "Psychedelic Ritual",
@@ -1049,6 +1088,45 @@
 				"subartist": "",
 				"md5": "620071c8efbd8065eae3f91694e00c8c",
 				"sha256": "13af39630f90f43465c427274841f3a62a98617e638cad6f5d9876262493b9d1",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+					{
+			                                               "level" : "11",
+                                                                "comment" : "★23/ST3",
+				"title": "Ultimate Weapon",
+				"subtitle": "[End of Myth]",
+				"genre": "EMOTIONAL TRANCECORE",
+				"artist": "TetraElemental",
+				"subartist": "obj by Zethiwo",
+				"md5": "d749c0ac9ffee7de3de9f89aea278420",
+				"sha256": "39d0fa0ebdebabc5abf386ed5c245fb1e68604a02f83ae7f0756725977913028",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+								{
+			                                               "level" : "11",
+                                                                "comment" : "★23/ST3",
+				"title": "Misdirection",
+				"subtitle": "[无尽長廊]",
+				"genre": "CONFUSION",
+				"artist": "enxel vs D.J.Nero",
+				"subartist": "obj by Zethiwo",
+				"md5": "88b2b1fa3f7c3ea45af3ec74b7ea2436",
+				"sha256": "4c4df52a76c62ac973bd8ad3bcf426c5e01f339cefdd5d5991afdbaa6d30df33",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+					{
+			                                               "level" : "11",
+                                                                "comment" : "★23/ST3-4",
+				"title": "DISCHARGE RUSH",
+				"subtitle": "[Fanatical Scavenger]",
+				"genre": "ROTTERDAM TECHNO",
+				"artist": "ETIA. vs MM Sequence",
+				"subartist": "obj by Zethiwo",
+				"md5": "36e9116788b8be2d775f7fbeb0cd8537",
+				"sha256": "a53cbc1b8fe3a85fbf96731205bcb8406a6cdef98d4992f9433d9b3d003ad5c4",
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},
