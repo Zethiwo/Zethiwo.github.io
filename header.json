@@ -2,4 +2,164 @@
   "name" : "ZERO Dimension差分難易度表",
   "symbol" : "ZD",
   "data_url" : "https://Zethiwo.github.io/data.json"
+   "course": [
+    [
+      {
+        "name": "ZERO Dimension段位認定 LEVEL2",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "543886d8ae40da6f8f09b5ba48f1ed8a",
+          "6a8445b06d70126b5f5cce78fdf7ffb2",
+          "391ca4c0f1e1746923c1813d6db42c0d",
+          "2e1c4e5ee58f71615d222042bb14984e"
+        ]
+      },
+      {
+        "name": "ZERO Dimension段位認定 LEVEL3",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "411a4b7703f4778284780449aa575566",
+          "14e7127795e2a569c13c3d8560515b46",
+          "cc5a713ac5020b253cb620bef1d07855",
+          "d1b41c6585cb3c2429a431897b059069"
+        ]
+      },
+      {
+        "name": "ZERO Dimension段位認定 LEVEL4",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "f8dcb24326a619f782c06c1d0a086634",
+          "9ad1dd305fc295febb504087b6dd9bb6",
+          "8f851446959685bb7e7e7a8aec934b14",
+          "4429b3f423152bc212e6e6ecd143b096"
+        ]
+      },
+      {
+        "name": "ZERO Dimension段位認定 LEVEL5",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "8516b1672b53bd7cb9ea10de187cbe82",
+          "5dd6ea5a83138b0d182e90f2d542b33b",
+          "9c5944d7b3cb8378705d18dfe336853f",
+          "9269aceb7ff4d5c9adc051d95aa3eea4"
+        ]
+      },
+      {
+        "name": "ZERO Dimension段位認定 LEVEL6",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "23282705c68036d7a98c7d3aa3f381ec",
+          "2a1bf071a93714a986c6cad14e00185c",
+          "0a9c015e75754aca7e05362886e78cb3",
+          "be74c5cec98253a444316e8f55d57963"
+        ]
+      },
+      {
+        "name": "ZERO Dimension段位認定 LEVEL7",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "72b9d4ec4dc0726cb851ef4951af190b",
+          "8727172b15790f060d184c2f60f715e5",
+          "0ae422708650766a694c9fd9d2b188cc",
+          "cc178351eb6826a4277d79babd181166"
+        ]
+      },
+      {
+        "name": "ZERO Dimension段位認定 LEVEL8",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "55bbe1462d895bb51f5ff21f747169e3",
+          "cd42739d091780c644f75cb5982f293e",
+          "5de86ec1316e33981c65d9cbf2901488",
+          "9598dabf2219f477a9d540aee11bfb3c"
+        ]
+      }
+	        {
+        "name": "ZERO Dimension段位認定 LEVEL9",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "1c626212429a349da0ed4061ccaed2a9",
+          "2c56b2ac2b300dd749cc424690bd9a76",
+          "79c5880f2c92cb7dfec0f42a21c77c81",
+          "726287f4196df2b6334369df6fbc969d"
+        ]
+      }
+	        {
+        "name": "ZERO Dimension段位認定 LEVEL10",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "6d8e50dff6c79921a0f1bb79386a8bbb",
+          "857afefab23598230d1b18d0ee85d539",
+          "a2eacfd5d1da52e820b2ba6be8a7a6ff",
+          "8758f69b418d25fd3ce8c47af12d98005"
+        ]
+      }
+	        {
+        "name": "ZERO Dimension段位認定 LEVEL11",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "b5557d00ba97f6e0995806f9a4bb9612",
+          "88b2b1fa3f7c3ea45af3ec74b7ea2436",
+          "36e9116788b8be2d775f7fbeb0cd8537",
+          "d749c0ac9ffee7de3de9f89aea278420"
+        ]
+      }
+	        {
+        "name": "ZERO Dimension段位認定 LEVEL12",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "16bab81b273644caabbd4ad0877c7458",
+          "a5cbc41e32a8da6a82632bb3eeac2424",
+          "a07285ffd1fca4155e92de0c96b42269",
+          "de6d6ca123ade7233dff175371245bff"
+        ]
+      }
+    ]
+  ]
+
+  
 }
