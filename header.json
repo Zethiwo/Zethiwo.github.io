@@ -101,7 +101,7 @@
           "5de86ec1316e33981c65d9cbf2901488",
           "9598dabf2219f477a9d540aee11bfb3c"
         ]
-      }
+      },
 	        {
         "name": "ZERO Dimension段位認定 LEVEL9",
         "constraint": ["grade_mirror", "gauge_lr2", "ln"],
@@ -115,7 +115,7 @@
           "79c5880f2c92cb7dfec0f42a21c77c81",
           "726287f4196df2b6334369df6fbc969d"
         ]
-      }
+      },
 	        {
         "name": "ZERO Dimension段位認定 LEVEL10",
         "constraint": ["grade_mirror", "gauge_lr2", "ln"],
@@ -129,7 +129,7 @@
           "d6734160c8cd168e2670fb3e8c4a2195",
           "8758f69b418d25fd3ce8c47af12d98005"
         ]
-      }
+      },
 	        {
         "name": "ZERO Dimension段位認定 LEVEL11",
         "constraint": ["grade_mirror", "gauge_lr2", "ln"],
@@ -143,7 +143,7 @@
           "36e9116788b8be2d775f7fbeb0cd8537",
           "d749c0ac9ffee7de3de9f89aea278420"
         ]
-      }
+      },
 	        {
         "name": "ZERO Dimension段位認定 LEVEL12",
         "constraint": ["grade_mirror", "gauge_lr2", "ln"],
