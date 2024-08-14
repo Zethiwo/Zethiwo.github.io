@@ -28,7 +28,7 @@
         "md5": [
           "411a4b7703f4778284780449aa575566",
           "14e7127795e2a569c13c3d8560515b46",
-          "cc5a713ac5020b253cb620bef1d07855",
+          "46046c4e64df3e2d2fe2eb15818185b7",
           "d1b41c6585cb3c2429a431897b059069"
         ]
       },
@@ -97,9 +97,9 @@
         ],
         "md5": [
           "55bbe1462d895bb51f5ff21f747169e3",
+          "bc094af0de4dc57ae12a009dbdc37880",
           "cd42739d091780c644f75cb5982f293e",
-          "5de86ec1316e33981c65d9cbf2901488",
-          "9598dabf2219f477a9d540aee11bfb3c"
+          "5de86ec1316e33981c65d9cbf2901488"
         ]
       },
 	        {
@@ -110,8 +110,8 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "1c626212429a349da0ed4061ccaed2a9",
           "2c56b2ac2b300dd749cc424690bd9a76",
+          "8b5156bbe59a34bf4e2ae467d2626fa3",
           "79c5880f2c92cb7dfec0f42a21c77c81",
           "726287f4196df2b6334369df6fbc969d"
         ]
@@ -124,10 +124,10 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "6d8e50dff6c79921a0f1bb79386a8bbb",
-          "857afefab23598230d1b18d0ee85d539",
-          "d6734160c8cd168e2670fb3e8c4a2195",
-          "8758f69b418d25fd3ce8c47af12d98005"
+          "af84a58bd7fed5e8a0f306dd317ef641",
+          "472b4dc12111c788b2ebd1aaf7c9359e",
+          "a2eacfd5d1da52e820b2ba6be8a7a6ff",
+          "758f69b418d25fd3ce8c47af12d98005"
         ]
       },
 	        {
@@ -138,10 +138,10 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "b5557d00ba97f6e0995806f9a4bb9612",
+          "6d8e50dff6c79921a0f1bb79386a8bbb",
           "88b2b1fa3f7c3ea45af3ec74b7ea2436",
           "36e9116788b8be2d775f7fbeb0cd8537",
-          "d749c0ac9ffee7de3de9f89aea278420"
+          "29b362ee80e3c6b9e542706fee51242e"
         ]
       },
 	        {
