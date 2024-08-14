@@ -12,6 +12,19 @@
                                                                 "url" : "http://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.230101%20patch/newsongs/reveL.rar",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2239"
 			},
+					{
+			                                               "level" : "0",
+                                                                "comment" : "★1/SL1",
+				"title": "ｑａяσｌГФ｜ ΣθгＬｐ",
+				"subtitle": "[Watcher]",
+				"genre": "エレクトロニカ",
+				"artist": "sayaka_hasegawa",
+				"subartist": "mov:空蝉/obj by Zethiwo",
+				"md5": "12f0c3abb87238c2df7fd1b17d0053bd",
+				"sha256": "d5e33f1c36a3f7c29226f0843fef53a710169f7871d25489dfbcd910a6901526",
+                                                                "url" : "https://pupuly.nekokan.dyndns.info/bms/v/226",
+                                                                "url_diff" : "https://venue.bmssearch.net/ssss_1st/11"
+			},
 			{
                                                                 "level" : "1",
                                                                 "comment" : "★1/SL1",
@@ -519,6 +532,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2240"
 			},
+					{
+			                                               "level" : "5",
+                                                                "comment" : "★13/SL7-8，Sabun-Shuffle Summer Season参赛作",
+				"title": "ｑａяσｌГФ｜ ΣθгＬｐ",
+				"subtitle": "[Silencer]",
+				"genre": "エレクトロニカ",
+				"artist": "sayaka_hasegawa",
+				"subartist": "mov:空蝉/obj by Zethiwo",
+				"md5": "258d892b6c9d8e6ebec6c1d9763eb026",
+				"sha256": "04f49ba185c0f06ef874e7d862152f282c596b0dd65a1c88023ecd6cda717743",
+                                                                "url" : "https://pupuly.nekokan.dyndns.info/bms/v/226",
+                                                                "url_diff" : "https://venue.bmssearch.net/ssss_1st/11"
+			},
 							{
 			                                               "level" : "5",
                                                                 "comment" : "★13-14/SL8",
@@ -581,6 +607,19 @@
 				"sha256": "15f9c102821747e698f1573c1989e5fc8dd6e28885fb258035f7e24c9e9ede5d",
                                                                 "url" : "http://malie.noor.jp/",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3605"
+			},
+	{
+			                                               "level" : "6",
+                                                                "comment" : "★14-15/SL9-10",
+				"title": "GOODTEK",
+				"subtitle": "[100T]",
+				"genre": "GOODPUMP",
+				"artist": "EBIMAYO",
+				"subartist": "obj by Zethiwo",
+				"md5": "87de941d42f878cb97e6095bb3620dd5",
+				"sha256": "16494d6c4fd881bc685a8a36dfcdd43da9d29e8f5cfbf2185febb40f0e9bb8aa",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4258"
 			},
 							{
 			                                               "level" : "6",
@@ -1064,19 +1103,7 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=218&event=133",
                                                                 "url_diff" : "https://stellabms.xyz/upload/4015"
 			},
-					{
-			                                               "level" : "10",
-                                                                "comment" : "★21/ST1",
-				"title": "the lost dedicated",
-				"subtitle": "(literature)",
-				"genre": "hi-nrg / trance",
-				"artist": "哀愁マニア",
-				"subartist": "obj by Zethiwo",
-				"md5": "c57be56ecaf7e1c9415be6d043932201",
-				"sha256": "cba457e70af2244865ce36f8dff92820dfa041c9021576886f1d410ef8ec2171",
-                                                                "url" : "https://onedrive.live.com/?id=EDC72D529484CBCB%21212&cid=EDC72D529484CBCB",
-                                                                "url_diff" : ""
-			},
+
 					{
 			                                               "level" : "10",
                                                                 "comment" : "★22/St2",
@@ -1103,9 +1130,23 @@
                                                                 "url" : "http://flowermaster.web.fc2.com/riderbms/index.html",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3737"
 			},
-										{
+	
+								{
 			                                               "level" : "10",
-                                                                "comment" : "★22-23/ST2-3",
+                                                                "comment" : "★22/ST2,Sabun-Shuffle Summer Season参赛作",
+				"title": "DTD Emperor",
+				"subtitle": "[Khorne]",
+				"genre": "DRUM'N BASS",
+				"artist": "ルゼ",
+				"subartist": "obj by Zethiwo",
+				"md5": "472b4dc12111c788b2ebd1aaf7c9359e",
+				"sha256": "e1b9165df37c28a3d189222195ae47c35d81fb5f2af35ce59e1e4689f9679d50",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+	{
+			                                               "level" : "10",
+                                                                "comment" : "★21/ST1",
 				"title": "中途覚醒デイドリーム",
 				"subtitle": "[LU†ST]",
 				"genre": "POP CORE",
@@ -1129,7 +1170,20 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=458&event=110",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3604"
 			},
-
+	
+					{
+			                                               "level" : "11",
+                                                                "comment" : "★22-23/ST3",
+				"title": "the lost dedicated",
+				"subtitle": "(literature)",
+				"genre": "hi-nrg / trance",
+				"artist": "哀愁マニア",
+				"subartist": "obj by Zethiwo",
+				"md5": "c57be56ecaf7e1c9415be6d043932201",
+				"sha256": "cba457e70af2244865ce36f8dff92820dfa041c9021576886f1d410ef8ec2171",
+                                                                "url" : "https://onedrive.live.com/?id=EDC72D529484CBCB%21212&cid=EDC72D529484CBCB",
+                                                                "url_diff" : ""
+			},
 							{
 			                                               "level" : "11",
                                                                 "comment" : "★23/ST3",
@@ -1219,6 +1273,19 @@
 				"sha256": "1d388a99e9dfb4ff3cb92c3a0f1b772fa49e3d6f7bc41c226bcc9af78192ea4f",
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=283&event=140",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3479"
+			},
+					{
+			                                               "level" : "12",
+                                                                "comment" : "★24/ST4-5",
+				"title": "GOODTEK",
+				"subtitle": "[10000T]",
+				"genre": "GOODPUMP",
+				"artist": "EBIMAYO",
+				"subartist": "obj by Zethiwo",
+				"md5": "29b362ee80e3c6b9e542706fee51242e",
+			"sha256":"155386b3f225726eb87dcb17b84f50f87ad6e39bd597de3803c483d76ed38560",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4258"
 			},
 											{
 			                                               "level" : "12",
