@@ -1064,6 +1064,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2995"
 			},
+										{
+			                                               "level" : "9",
+                                                                "comment" : "★21/ST1",
+				"title": "ELIMINATOR",
+				"subtitle": "[Jack†Pot]",
+				"genre": "DYSTOPIA",
+				"artist": "Cosmograph / yusi.",
+				"subartist": "obj by Zethiwo",
+				"md5": "758f69b418d25fd3ce8c47af12d98005",
+				"sha256": "a1beaef1568a7327bc480a54dc7c75b27f7bdf39d5a04cc00d5c350038e35979",
+                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
+                                                                "url_diff" : "https://stellabms.xyz/upload/3929"
+			},
 							{
 			                                               "level" : "10",
                                                                 "comment" : "★21-22/ST1-2",
@@ -1077,19 +1090,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2328"
 			},
-									{
-			                                               "level" : "10",
-                                                                "comment" : "★21/ST1",
-				"title": "ELIMINATOR",
-				"subtitle": "[Jack†Pot]",
-				"genre": "DYSTOPIA",
-				"artist": "Cosmograph / yusi.",
-				"subartist": "obj by Zethiwo",
-				"md5": "758f69b418d25fd3ce8c47af12d98005",
-				"sha256": "a1beaef1568a7327bc480a54dc7c75b27f7bdf39d5a04cc00d5c350038e35979",
-                                                                "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=41&event=133",
-                                                                "url_diff" : "https://stellabms.xyz/upload/3929"
-			},		
+		
 	{
 			                                               "level" : "10",
                                                                 "comment" : "★21/ST1",
@@ -1172,7 +1173,7 @@
 			},
 	
 					{
-			                                               "level" : "11",
+			                                               "level" : "10",
                                                                 "comment" : "★22-23/ST3",
 				"title": "the lost dedicated",
 				"subtitle": "(literature)",
@@ -1182,6 +1183,33 @@
 				"md5": "c57be56ecaf7e1c9415be6d043932201",
 				"sha256": "cba457e70af2244865ce36f8dff92820dfa041c9021576886f1d410ef8ec2171",
                                                                 "url" : "https://onedrive.live.com/?id=EDC72D529484CBCB%21212&cid=EDC72D529484CBCB",
+                                                                "url_diff" : ""
+			},
+	
+								{
+			                                               "level" : "10",
+                                                                "comment" : "★23/ST3",
+				"title": "Misdirection",
+				"subtitle": "[无尽長廊]",
+				"genre": "CONFUSION",
+				"artist": "enxel vs D.J.Nero",
+				"subartist": "obj by Zethiwo",
+				"md5": "88b2b1fa3f7c3ea45af3ec74b7ea2436",
+				"sha256": "4c4df52a76c62ac973bd8ad3bcf426c5e01f339cefdd5d5991afdbaa6d30df33",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4017"
+			},
+						{
+			                                               "level" : "11",
+                                                                "comment" : "★23-24/ST3-4",
+				"title": "Ultimate Weapon",
+				"subtitle": "[End of Myth]",
+				"genre": "EMOTIONAL TRANCECORE",
+				"artist": "TetraElemental",
+				"subartist": "obj by Zethiwo",
+				"md5": "62381acf0a11e65049ac38d299dee665",
+				"sha256": "719c79d8715cde41470cdf775c8c380293718c593b96cc9dc988e9b64855c2de",
+                                                                "url" : "",
                                                                 "url_diff" : ""
 			},
 							{
@@ -1210,31 +1238,18 @@
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},
-					{
+							{
 			                                               "level" : "11",
-                                                                "comment" : "★23-24/ST3-4",
-				"title": "Ultimate Weapon",
-				"subtitle": "[End of Myth]",
-				"genre": "EMOTIONAL TRANCECORE",
-				"artist": "TetraElemental",
-				"subartist": "obj by Zethiwo",
-				"md5": "d749c0ac9ffee7de3de9f89aea278420",
-				"sha256": "39d0fa0ebdebabc5abf386ed5c245fb1e68604a02f83ae7f0756725977913028",
+                                                                "comment" : "★24/ST4-5",
+				"title": "Cynical ",
+				"subtitle": "[散]",
+				"genre": "TECHNO",
+				"artist": "Blue-J",
+				"subartist": "obj.Abyss Diver",
+				"md5": "a07285ffd1fca4155e92de0c96b42269",
+				"sha256": "d0951f84ef406698ccd6c5b7ad9c664059ca5dd3c4171f21e324f28b9f878f11",
                                                                 "url" : "",
-                                                                "url_diff" : ""
-			},
-								{
-			                                               "level" : "11",
-                                                                "comment" : "★23/ST3",
-				"title": "Misdirection",
-				"subtitle": "[无尽長廊]",
-				"genre": "CONFUSION",
-				"artist": "enxel vs D.J.Nero",
-				"subartist": "obj by Zethiwo",
-				"md5": "88b2b1fa3f7c3ea45af3ec74b7ea2436",
-				"sha256": "4c4df52a76c62ac973bd8ad3bcf426c5e01f339cefdd5d5991afdbaa6d30df33",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/4017"
+                                                                "url_diff" : "https://stellabms.xyz/upload/3125"
 			},
 					{
 			                                               "level" : "11",
@@ -1313,19 +1328,7 @@
                                                                 "url" : "http://malie.noor.jp/",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3605"
 			},
-							{
-			                                               "level" : "12",
-                                                                "comment" : "★24/ST4-5",
-				"title": "Cynical ",
-				"subtitle": "[散]",
-				"genre": "TECHNO",
-				"artist": "Blue-J",
-				"subartist": "obj.Abyss Diver",
-				"md5": "a07285ffd1fca4155e92de0c96b42269",
-				"sha256": "d0951f84ef406698ccd6c5b7ad9c664059ca5dd3c4171f21e324f28b9f878f11",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/3125"
-			},
+
 			{
 			                                               "level" : "@o@",
                                                                 "comment" : "★25/ST7-8",
