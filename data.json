@@ -38,6 +38,19 @@
                                                                 "url" : "http://bmsdrive.zris.work/d/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK/BeMusicSeeker%20difficulty%20tables%20BMS%20PACK%20ver.230101%20patch/newsongs/reveL.rar",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2239"
 			},
+					{
+			                                               "level" : "1",
+                                                                "comment" : "★3/SL2",
+				"title": "Sweet Star☆",
+				"subtitle": "[SP ANOTHER]",
+				"genre": "Happycore",
+				"artist": "世界の花",
+				"subartist": "obj.アカエイ",
+				"md5": "fc9941a1be36e25beb84f12c20b90362",
+				"sha256": "31fd3be0f0da2ad81bccfde2f986aa573bf927bdfc4a679f69081b21a075fc2f",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=146",
+                                                                "url_diff" : ""
+			},
 				{
 			                                               "level" : "1",
                                                                 "comment" : "★2/SL1",
@@ -519,6 +532,19 @@
                                                                 "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9&group=0",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3296"
 			},
+					{
+			                                               "level" : "5",
+                                                                "comment" : "★13/SL8",
+				"title": "Air",
+				"subtitle": "[Immortal]",
+				"genre": "TRANCE CORE",
+				"artist": "SHIKI ",
+				"subartist": "obj by Zethiwo",
+				"md5": "c33abab58725f3e5e76da91dddfb0856",
+				"sha256": "5a62efc496af04c2fd3d07e2380616e7cb6c3366c4b97d7f22f50cace66c95f8",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4533"
+			},
 							{
 			                                               "level" : "5",
                                                                 "comment" : "★13-14/SL8",
@@ -896,7 +922,21 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/4016"
 			},
-						{
+	
+									{
+			                                               "level" : "8",
+                                                                "comment" : "★18/SL12",
+				"title": "Centurion",
+				"subtitle": "[TRIUMPHAL]",
+				"genre": "Symphonic SynthRock",
+				"artist": "Setca. vs. Lemi. feat. 咲良ゆの",
+				"subartist": "obj by Zethiwo",
+				"md5": "6756c59b2f10fc76c6601ea10023559a",
+				"sha256": "5022b4d73e3eb581127639bacd57648dc0dfa3385cb17505231e176d40bc4ea4",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=146",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4591"
+			},
+	{
 			                                               "level" : "8",
                                                                 "comment" : "★18/SL12",
 				"title": "NS22",
@@ -998,6 +1038,19 @@
 				"sha256": "b2feb3e7618d184c5d83edaffe5f0ff193d0b29277ddc1e2b2f7e7b5b5ef0e41",
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2942"
+			},
+					{
+			                                               "level" : "9",
+                                                                "comment" : "★20/ST0",
+				"title": "Air",
+				"subtitle": "[Eternal]",
+				"genre": "TRANCE CORE",
+				"artist": "SHIKI ",
+				"subartist": "obj by Zethiwo",
+				"md5": "11516f37557c1bd894a289f71d9ab158",
+				"sha256": "4dbfc20aafd65797480f156c2dcea940ea6ed42fddf2748f9344de89ada33584",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4533"
 			},
 								{
 			                                               "level" : "9",
@@ -1118,6 +1171,19 @@
                                                                 "url" : "https://extrose.stoicsounds.jp/_bidc/_event/ev09_12.html",
                                                                 "url_diff" : ""
 			},
+					{
+			                                               "level" : "10",
+                                                                "comment" : "★22/ST2",
+				"title": "SCARY BANQUET",
+				"subtitle": "[Gula]",
+				"genre": "Terror",
+				"artist": "NIKITA / Optie",
+				"subartist": "obj by Zethiwo",
+				"md5": "80ad65e461226edeeb6b743bd7410b07",
+				"sha256": "e1f58275e0aa0ce12eb7a43765092ba21b221619e2aa75615614ada895e49209",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4534"
+			},
 							{
 			                                               "level" : "10",
                                                                 "comment" : "★22/ST2",
@@ -1131,7 +1197,19 @@
                                                                 "url" : "http://flowermaster.web.fc2.com/riderbms/index.html",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3737"
 			},
-	
+					{
+			                                               "level" : "10",
+                                                                "comment" : "★10/ST2",
+				"title": "Blackest Luxury Car",
+				"subtitle": "[BIG BOSS is Watching U]",
+				"genre": "Drum and Bass",
+				"artist": "Chicala Lpis",
+				"subartist": "obj.GODFather",
+				"md5": "a8aa246eda5ca278f513aa31b331628e",
+				"sha256": "01b2cd8bfc0e3bb1ca1ebf3a27d6415e00e35b7f4f0a043b1191299e1b2fc876",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4531"
+			},
 								{
 			                                               "level" : "10",
                                                                 "comment" : "★22/ST2,Sabun-Shuffle Summer Season参赛作",
@@ -1225,19 +1303,20 @@
                                                                 "url" : "https://onedrive.live.com/?authkey=%21AI0h1LgCjfh1LJI&id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3176"
 			},
-							{
+					{
 			                                               "level" : "11",
-                                                                "comment" : "★23/ST3-4",
-				"title": "SCARY BANQUET",
-				"subtitle": "-DEADLY FEAST-_fix",
-				"genre": "Terror",
-				"artist": "NIKITA / Optie/obj.Abyss Diver",
-				"subartist": "",
-				"md5": "620071c8efbd8065eae3f91694e00c8c",
-				"sha256": "13af39630f90f43465c427274841f3a62a98617e638cad6f5d9876262493b9d1",
-                                                                "url" : "",
+                                                                "comment" : "★23/ST3",
+				"title": "L_ST",
+				"subtitle": "[ENCORE | Silentia]",
+				"genre": "R_CK",
+				"artist": "SpadeK",
+				"subartist": "Tuning:鬼面P Illust:Otaku_宅 BGA:安二 obj:Zethiwo",
+				"md5": "72b1e298656013f4f749de1619270a3c",
+				"sha256": "8b0358111b908ec35013056e88aa8d1e51d7a0e9b52e4883358d270fc64758cb",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=146",
                                                                 "url_diff" : ""
 			},
+
 							{
 			                                               "level" : "11",
                                                                 "comment" : "★24/ST4-5",
@@ -1341,7 +1420,20 @@
 				"sha256": "d4b620e1415ec57862a28c2fb5f006e78504390e178234a50b1510fe78a66933",
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3738"
-				},			
+				},
+					{
+			                                               "level" : "@o@",
+                                                                "comment" : "★25/ST7",
+				"title": "SCARY BANQUET",
+				"subtitle": "[Gluttony]",
+				"genre": "Terror",
+				"artist": "NIKITA / Optie",
+				"subartist": "obj by Zethiwo",
+				"md5": "0bda3961b7fb03b10e31097fac5642d0",
+				"sha256": "1b5f32e72597e4f41711bf0d4c1475b1712a8eaf9acf9ecbbc8277e54b232f53",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4534"
+			},
 			{
 			                                               "level" : "?o?",
                                                                 "comment" : "★5",
@@ -1393,7 +1485,20 @@
 				"sha256": "977c1a846f4fe8453a2698550c18d43ecff15aec8bb234c6583ab41d643b7e45",
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2559"
-			},						
+			},
+					{
+			                                               "level" : "?o?",
+                                                                "comment" : "★25/ST7",
+				"title": "Southern Cross",
+				"subtitle": "[南斗翔鷲屠脚]",
+				"genre": "Inst.",
+				"artist": "403",
+				"subartist": "cloverleaf2431_midibox/obj.シン",
+				"md5": "77567f675e26a91f1ade100f314ce7c5",
+				"sha256": "0e695c2645f16b3662d6a746fd7bcd516a2ac9bb7e1fa98ac482b32d00e82cdc",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4532"
+			},
 			{
 			                                               "level" : "?o?",
                                                                 "comment" : "★12？,foon譜面",
