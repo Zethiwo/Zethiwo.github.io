@@ -766,22 +766,10 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=138&event=110",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3297"
 			},					
+		
 				{
-			                                               "level" : "6",
-                                                                "comment" : "★15-16/SL10",
-				"title": "anti-Overseer-",
-				"subtitle": "",
-				"genre": "MINIMAL",
-				"artist": "SUKE underground",
-				"subartist": "obj by Zethiwo",
-				"md5": "bfbe326d2905bd489eb56abf28f78749",
-				"sha256": "8b575ddc8a10789c21bbf5e87abf3a808e609469658efefa5d7a23ff929f43f8",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/3020"
-			},		
-				{
-			                                               "level" : "6",
-                                                                "comment" : "★16/SL10",
+			                                               "level" : "7",
+                                                                "comment" : "★17/SL11",
 				"title": "HARDCORE MACHINEGUN-神罰-",
 				"subtitle": "",
 				"genre": "SPEEDCORE",
@@ -1654,6 +1642,19 @@
 				"sha256": "f073932c11688d9eedb4db15b8fd4a4af99d201d691a586f55733ce8de8341a3",
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/4532"
+			},
+					{
+			                                               "level" : "?o?",
+                                                                "comment" : "★15-16/SL10",
+				"title": "anti-Overseer-",
+				"subtitle": "",
+				"genre": "MINIMAL",
+				"artist": "SUKE underground",
+				"subartist": "obj by Zethiwo",
+				"md5": "bfbe326d2905bd489eb56abf28f78749",
+				"sha256": "8b575ddc8a10789c21bbf5e87abf3a808e609469658efefa5d7a23ff929f43f8",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/3020"
 			},
 			{
 			                                               "level" : "?o?",
