@@ -545,19 +545,7 @@
                                                                 "url" : "http://onedrive.live.com/?id=FC95A680740CA8C9%21111&cid=FC95A680740CA8C9&group=0",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3296"
 			},
-					{
-			                                               "level" : "5",
-                                                                "comment" : "★13/SL8",
-				"title": "Air",
-				"subtitle": "[Immortal]",
-				"genre": "TRANCE CORE",
-				"artist": "SHIKI ",
-				"subartist": "obj by Zethiwo",
-				"md5": "c33abab58725f3e5e76da91dddfb0856",
-				"sha256": "5a62efc496af04c2fd3d07e2380616e7cb6c3366c4b97d7f22f50cace66c95f8",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/4533"
-			},
+
 							{
 			                                               "level" : "5",
                                                                 "comment" : "★13-14/SL8",
@@ -634,19 +622,7 @@
                                                                 "url" : "https://extrose.stoicsounds.jp/_bidc/_event/ev09_12.html",
                                                                 "url_diff" : ""
 			},
-										{
-			                                               "level" : "6",
-                                                                "comment" : "★15-16/SL10",
-				"title": "EXILE",
-				"subtitle": "-No Man's Land-",
-				"genre": "Goa Trance",
-				"artist": "-45/obj by Zethiwo",
-				"subartist": "",
-				"md5": "82d2ab25c22850987a82978123fb04e2",
-				"sha256": "15f9c102821747e698f1573c1989e5fc8dd6e28885fb258035f7e24c9e9ede5d",
-                                                                "url" : "http://malie.noor.jp/",
-                                                                "url_diff" : "https://stellabms.xyz/upload/3605"
-			},
+
 	{
 			                                               "level" : "6",
                                                                 "comment" : "★14-15/SL9-10",
@@ -673,7 +649,20 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=174&event=83",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3174"
 			},
-
+					{
+			                                               "level" : "6",
+                                                                "comment" : "★13/SL8",
+				"title": "Air",
+				"subtitle": "[Immortal]",
+				"genre": "TRANCE CORE",
+				"artist": "SHIKI ",
+				"subartist": "obj by Zethiwo",
+				"md5": "c33abab58725f3e5e76da91dddfb0856",
+				"sha256": "5a62efc496af04c2fd3d07e2380616e7cb6c3366c4b97d7f22f50cace66c95f8",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4533"
+			},
+	
 					{
 			                                               "level" : "6",
                                                                 "comment" : "★14/SL8-9",
@@ -780,7 +769,21 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2937"
 			},
-					{
+	
+														{
+			                                               "level" : "7",
+                                                                "comment" : "★15-16/SL10",
+				"title": "EXILE",
+				"subtitle": "-No Man's Land-",
+				"genre": "Goa Trance",
+				"artist": "-45/obj by Zethiwo",
+				"subartist": "",
+				"md5": "82d2ab25c22850987a82978123fb04e2",
+				"sha256": "15f9c102821747e698f1573c1989e5fc8dd6e28885fb258035f7e24c9e9ede5d",
+                                                                "url" : "http://malie.noor.jp/",
+                                                                "url_diff" : "https://stellabms.xyz/upload/3605"
+			},
+	{
 			                                               "level" : "7",
                                                                 "comment" : "★17-18/SL11",
 				"title": "the lost dedicated",
@@ -858,19 +861,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2993"
 			},
-					{
-			                                               "level" : "7",
-                                                                "comment" : "★17/SL11",
-				"title": "diSTractiOn PoInT",
-				"subtitle": "[drEAmscaPe DrIfT]",
-				"genre": "ELECTRONIC DANCING MUSIC",
-				"artist": "Arctures vs DJ KemoNOiZE",
-				"subartist": "obj.alpaca",
-				"md5": "2288b0b5f73fe79d9908ff95987c0fd8",
-				"sha256": "eb111882884cd157654fba0796d07ae4264d03560e62f3ce8f7deb401fa6556d",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/5056"
-			},
+
 							{
 			                                               "level" : "7",
                                                                 "comment" : "★17-18/SL11-12",
@@ -936,6 +927,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/4016"
 			},
+							{
+			                                               "level" : "8",
+                                                                "comment" : "★17/SL11",
+				"title": "diSTractiOn PoInT",
+				"subtitle": "[drEAmscaPe DrIfT]",
+				"genre": "ELECTRONIC DANCING MUSIC",
+				"artist": "Arctures vs DJ KemoNOiZE",
+				"subartist": "obj.alpaca",
+				"md5": "2288b0b5f73fe79d9908ff95987c0fd8",
+				"sha256": "eb111882884cd157654fba0796d07ae4264d03560e62f3ce8f7deb401fa6556d",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/5056"
+			},
 	
 									{
 			                                               "level" : "8",
@@ -963,7 +967,20 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3930"
 			},
-							{
+	
+												{
+			                                               "level" : "8",
+                                                                "comment" : "★20/SL12-ST0",
+				"title": "VECTOR",
+				"subtitle": "-虚数の空-",
+				"genre": "ARTROCK",
+				"artist": "WHITEFISTS",
+				"subartist": "obj by Zethiwo",
+				"md5": "8b5156bbe59a34bf4e2ae467d2626fa3",
+				"sha256": "dbfe9385665fd9fc9a3d5a792d73fb0f0cf312519b147a12764d010d20c09c8f",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/2995"
+			},		{
 			                                               "level" : "8",
                                                                 "comment" : "★18/SL12",
 				"title": "ReviXy",
@@ -977,8 +994,8 @@
                                                                 "url_diff" : "https://stellabms.xyz/upload/3022"
 			},
 							{
-			                                               "level" : "8",
-                                                                "comment" : "★19/SL12-ST0",
+			                                               "level" : "9",
+                                                                "comment" : "★20-21/ST0-1",
 				"title": "G e n g a o z o",
 				"subtitle": "-Nihility†Legend-",
 				"genre": "P s y",
@@ -1002,6 +1019,7 @@
                                                                 "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=140",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3480"
 			},
+
 												{
 			                                               "level" : "9",
                                                                 "comment" : "★20-21/st0-1",
@@ -1145,19 +1163,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/5060"
 			},
-							{
-			                                               "level" : "9",
-                                                                "comment" : "★20-21/ST0-1",
-				"title": "VECTOR",
-				"subtitle": "-虚数の空-",
-				"genre": "ARTROCK",
-				"artist": "WHITEFISTS",
-				"subartist": "obj by Zethiwo",
-				"md5": "8b5156bbe59a34bf4e2ae467d2626fa3",
-				"sha256": "dbfe9385665fd9fc9a3d5a792d73fb0f0cf312519b147a12764d010d20c09c8f",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/2995"
-			},
+
 										{
 			                                               "level" : "9",
                                                                 "comment" : "★21/ST1",
@@ -1474,19 +1480,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/5034"
 			},
-					{
-			                                               "level" : "12",
-                                                                "comment" : "★24/ST5-6",
-				"title": "Angelic layer",
-				"subtitle": "EVERGARDEN",
-				"genre": "TRANCE",
-				"artist": "SHIKI",
-				"subartist": "obj by Zethiwo",
-				"md5": "b087b478cf9688a612bbeae530c65040",
-				"sha256": "dbd77c2c24628189bf666bfbfd41d810c9cb1c233e3746656bc8aa051ec74bc9",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/5036"
-			},
+
 							{
 			                                               "level" : "12",
                                                                 "comment" : "★24/ST5-6",
@@ -1526,6 +1520,19 @@
                                                                 "url" : "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3738"
 				},
+						{
+			                                               "level" : "13",
+                                                                "comment" : "★24/ST5-6",
+				"title": "Angelic layer",
+				"subtitle": "EVERGARDEN",
+				"genre": "TRANCE",
+				"artist": "SHIKI",
+				"subartist": "obj by Zethiwo",
+				"md5": "b087b478cf9688a612bbeae530c65040",
+				"sha256": "dbd77c2c24628189bf666bfbfd41d810c9cb1c233e3746656bc8aa051ec74bc9",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/5036"
+			},
 					{
 			                                               "level" : "13",
                                                                 "comment" : "★25/ST7",
@@ -1539,19 +1546,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},
-					{
-			                                               "level" : "13",
-                                                                "comment" : "★25/ST7-8",
-				"title": "Doppelganger",
-				"subtitle": "[Gemini]",
-				"genre": "EINSAMKEIT",
-				"artist": "LeaF",
-				"subartist": "Movie:To7/obj by Zethiwo",
-				"md5": "7d40189a502e6b0368854580676cf37b",
-				"sha256": "2e0db4c338b50f7674ddcdcad015efc95aea8c5f845ec253db80715397b1330c",
-                                                                "url" : "",
-                                                                "url_diff" : ""
-			},
+
 					{
 			                                               "level" : "13",
                                                                 "comment" : "★25/ST7",
@@ -1565,8 +1560,21 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/4534"
 			},
-					{
+						{
 			                                               "level" : "14",
+                                                                "comment" : "★25/ST7-8",
+				"title": "Doppelganger",
+				"subtitle": "[Gemini]",
+				"genre": "EINSAMKEIT",
+				"artist": "LeaF",
+				"subartist": "Movie:To7/obj by Zethiwo",
+				"md5": "7d40189a502e6b0368854580676cf37b",
+				"sha256": "2e0db4c338b50f7674ddcdcad015efc95aea8c5f845ec253db80715397b1330c",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
+					{
+			                                               "level" : "15",
                                                                 "comment" : "★26/ST10",
 				"title": "Crimson Liar",
 				"subtitle": "-Degenerate?Ⅲ?-",
