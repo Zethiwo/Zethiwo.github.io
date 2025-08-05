@@ -1444,6 +1444,19 @@
 					{
 			                                               "level" : "12",
                                                                 "comment" : "★24/ST4-5",
+				"title": "永劫の沙漏",
+				"subtitle": "[Time is RUNNING OUT]",
+				"genre": "Techno",
+				"artist": "ATEMAK",
+				"subartist": "obj by Zethiwo",
+				"md5": "af9843bd7a3effe78b6111c23e6a05a7",
+				"sha256": "6811c3e34dc6fb256f47cf2ee46daab7f79f6a73bd2a6437d938573348ca886e",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/5518"
+			},	
+					{
+			                                               "level" : "12",
+                                                                "comment" : "★24/ST4-5",
 				"title": "GOODTEK",
 				"subtitle": "[10000T]",
 				"genre": "GOODPUMP",
