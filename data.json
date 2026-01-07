@@ -689,19 +689,7 @@
                                                                 "url_diff" : "https://stellabms.xyz/upload/4533"
 			},
 	
-					{
-			                                               "level" : "6",
-                                                                "comment" : "★14/SL8-9",
-				"title": "Infinite Galaxy",
-				"subtitle": "[Limit Collapse]",
-				"genre": "Energetic Trance",
-				"artist": "NS-Factory × deadblue238 × hi-low",
-				"subartist": "obj by Zethiwo",
-				"md5": "23282705c68036d7a98c7d3aa3f381ec",
-				"sha256": "d66518f7ffb634508e2c849195f81d9fa75ce5059a1aebda50545b67a05c4f79",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/3809"
-			},
+
 				{
 			                                               "level" : "6",
                                                                 "comment" : "★16-17/SL10-11",
@@ -795,10 +783,23 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2937"
 			},
+					{
+			                                               "level" : "7",
+                                                                "comment" : "異格6",
+				"title": "Infinite Galaxy",
+				"subtitle": "[Limit Collapse]",
+				"genre": "Energetic Trance",
+				"artist": "NS-Factory × deadblue238 × hi-low",
+				"subartist": "obj by Zethiwo",
+				"md5": "23282705c68036d7a98c7d3aa3f381ec",
+				"sha256": "d66518f7ffb634508e2c849195f81d9fa75ce5059a1aebda50545b67a05c4f79",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/3809"
+			},
 	
 														{
 			                                               "level" : "7",
-                                                                "comment" : "★15-16/SL10",
+                                                                "comment" : "異格6",
 				"title": "EXILE",
 				"subtitle": "-No Man's Land-",
 				"genre": "Goa Trance",
@@ -978,33 +979,9 @@
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},
-							{
-			                                               "level" : "8",
-                                                                "comment" : "★18/SL12",
-				"title": "diSTractiOn PoInT",
-				"subtitle": "[drEAmscaPe DrIfT]",
-				"genre": "ELECTRONIC DANCING MUSIC",
-				"artist": "Arctures vs DJ KemoNOiZE",
-				"subartist": "obj.alpaca",
-				"md5": "2288b0b5f73fe79d9908ff95987c0fd8",
-				"sha256": "eb111882884cd157654fba0796d07ae4264d03560e62f3ce8f7deb401fa6556d",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/5056"
-			},
+
 	
-									{
-			                                               "level" : "8",
-                                                                "comment" : "★18/SL12",
-				"title": "Centurion",
-				"subtitle": "[TRIUMPHAL]",
-				"genre": "Symphonic SynthRock",
-				"artist": "Setca. vs. Lemi. feat. 咲良ゆの",
-				"subartist": "obj by Zethiwo",
-				"md5": "6756c59b2f10fc76c6601ea10023559a",
-				"sha256": "5022b4d73e3eb581127639bacd57648dc0dfa3385cb17505231e176d40bc4ea4",
-                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=146",
-                                                                "url_diff" : "https://stellabms.xyz/upload/4591"
-			},
+,
 
 	
 												{
@@ -1019,7 +996,21 @@
 				"sha256": "dbfe9385665fd9fc9a3d5a792d73fb0f0cf312519b147a12764d010d20c09c8f",
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/2995"
-			},		{
+			},		
+											{
+			                                               "level" : "8",
+                                                                "comment" : "★18/SL12",
+				"title": "Centurion",
+				"subtitle": "[TRIUMPHAL]",
+				"genre": "Symphonic SynthRock",
+				"artist": "Setca. vs. Lemi. feat. 咲良ゆの",
+				"subartist": "obj by Zethiwo",
+				"md5": "6756c59b2f10fc76c6601ea10023559a",
+				"sha256": "5022b4d73e3eb581127639bacd57648dc0dfa3385cb17505231e176d40bc4ea4",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=70&event=146",
+                                                                "url_diff" : "https://stellabms.xyz/upload/4591"
+			}
+	{
 			                                               "level" : "8",
                                                                 "comment" : "★18/SL12",
 				"title": "ReviXy",
@@ -1073,6 +1064,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/5519"
 			},
+								{
+			                                               "level" : "9",
+                                                                "comment" : "異格8",
+				"title": "diSTractiOn PoInT",
+				"subtitle": "[drEAmscaPe DrIfT]",
+				"genre": "ELECTRONIC DANCING MUSIC",
+				"artist": "Arctures vs DJ KemoNOiZE",
+				"subartist": "obj.alpaca",
+				"md5": "2288b0b5f73fe79d9908ff95987c0fd8",
+				"sha256": "eb111882884cd157654fba0796d07ae4264d03560e62f3ce8f7deb401fa6556d",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/5056"
+			},
 	{
 			                                               "level" : "9",
                                                                 "comment" : "★20-21/st0-1",
@@ -1112,6 +1116,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3930"
 			},
+
 							{
 			                                               "level" : "9",
                                                                 "comment" : "★21/ST1",
@@ -1190,19 +1195,7 @@
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},	
-						{
-			                                               "level" : "9",
-                                                                "comment" : "★20/ST0",
-				"title": "Engine",
-				"subtitle": "[Critical Rampage]",
-				"genre": "Neuro Drum & Bass",
-				"artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
-				"subartist": "obj by Zethiwo",
-				"md5": "aac2cd2b2e074e8ed895fea5905c3eba",
-			"sha256":"1963a05c83fdda908a0d9a431113bec4b3bd738e09f6b970a79bac3424b0126e",
-                                                                "url" : "",
-                                                                "url_diff" : ""
-			},
+
 				{
 			                                               "level" : "9",
                                                                 "comment" : "★20/ST0",
@@ -1297,6 +1290,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/5862"
 			},
+							{
+			                                               "level" : "10",
+                                                                "comment" : "異格9",
+				"title": "Engine",
+				"subtitle": "[Critical Rampage]",
+				"genre": "Neuro Drum & Bass",
+				"artist": "Music : eFeL / BGA : 鑓田(Alpha complex)",
+				"subartist": "obj by Zethiwo",
+				"md5": "aac2cd2b2e074e8ed895fea5905c3eba",
+			"sha256":"1963a05c83fdda908a0d9a431113bec4b3bd738e09f6b970a79bac3424b0126e",
+                                                                "url" : "",
+                                                                "url_diff" : ""
+			},
 					{
 			                                               "level" : "10",
                                                                 "comment" : "★22/ST2",
@@ -1375,19 +1381,7 @@
                                                                 "url" : "https://bms.kyouko.moe/torrent/BMS_Library/%E4%B8%AD%E9%80%94%E8%A6%9A%E9%86%92%E3%83%87%E3%82%A4%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%20(by%20Sleepless%20feat.%E5%B7%A1%E9%9F%B3%E3%83%AB%E3%82%AB%EF%BC%8Fexemoss).rar",
                                                                 "url_diff" : "https://stellabms.xyz/upload/3735"
 			},
-						{
-			                                               "level" : "10",
-                                                                "comment" : "★23/ST3",
-				"title": "L_ST",
-				"subtitle": "[ENCORE | Silentia]",
-				"genre": "R_CK",
-				"artist": "SpadeK",
-				"subartist": "Tuning:鬼面P Illust:Otaku_宅 BGA:安二 obj:Zethiwo",
-				"md5": "72b1e298656013f4f749de1619270a3c",
-				"sha256": "8b0358111b908ec35013056e88aa8d1e51d7a0e9b52e4883358d270fc64758cb",
-                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=146",
-                                                                "url_diff" : ""
-			},
+
 					{
 			                                               "level" : "10",
                                                                 "comment" : "★21/ST1",
@@ -1493,7 +1487,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : "https://stellabms.xyz/upload/5058"
 			},
-
+						{
+			                                               "level" : "11",
+                                                                "comment" : "★23/ST3",
+				"title": "L_ST",
+				"subtitle": "[ENCORE | Silentia]",
+				"genre": "R_CK",
+				"artist": "SpadeK",
+				"subartist": "Tuning:鬼面P Illust:Otaku_宅 BGA:安二 obj:Zethiwo",
+				"md5": "72b1e298656013f4f749de1619270a3c",
+				"sha256": "8b0358111b908ec35013056e88aa8d1e51d7a0e9b52e4883358d270fc64758cb",
+                                                                "url" : "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=146",
+                                                                "url_diff" : ""
+			},
 
 							{
 			                                               "level" : "11",
