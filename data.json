@@ -785,7 +785,7 @@
 			},
 					{
 			                                               "level" : "7",
-                                                                "comment" : "異格6",
+                                                                "comment" : "",
 				"title": "Infinite Galaxy",
 				"subtitle": "[Limit Collapse]",
 				"genre": "Energetic Trance",
@@ -799,7 +799,7 @@
 	
 														{
 			                                               "level" : "7",
-                                                                "comment" : "異格6",
+                                                                "comment" : "",
 				"title": "EXILE",
 				"subtitle": "-No Man's Land-",
 				"genre": "Goa Trance",
@@ -1061,7 +1061,7 @@
 			},
 								{
 			                                               "level" : "9",
-                                                                "comment" : "異格8",
+                                                                "comment" : "8",
 				"title": "diSTractiOn PoInT",
 				"subtitle": "[drEAmscaPe DrIfT]",
 				"genre": "ELECTRONIC DANCING MUSIC",
@@ -1177,6 +1177,19 @@
                                                                 "url" : "",
                                                                 "url_diff" : ""
 			},	
+						{
+			                                               "level" : "9",
+                                                                "comment" : "★21/ST1",
+				"title": "Eureka",
+				"subtitle": "[Cognitive Bias]",
+				"genre": "CLUB/STUBBORN",
+				"artist": "sasakure.UK x ArmyTom  w/z Bitplane",
+				"subartist": "Movie:pam x HDLV/obj.Zethiwo",
+				"md5": "e2b3bd5a3bf5bf166e7c6625bfa5531d",
+				"sha256": "4495c62a5c68cd019bd96e38fb8c05ea911a991447747136fc7fe89e56743c63",
+                                                                "url" : "",
+                                                                "url_diff" : "https://stellabms.xyz/upload/5862"
+			},
 				{
 			                                               "level" : "9",
                                                                 "comment" : "★20-21/ST1",
@@ -1272,19 +1285,7 @@
                                                                 "url" : "https://extrose.stoicsounds.jp/_bidc/_event/ev09_12.html",
                                                                 "url_diff" : "https://stellabms.xyz/upload/4256"
 			},
-					{
-			                                               "level" : "10",
-                                                                "comment" : "★21/ST1",
-				"title": "Eureka",
-				"subtitle": "[Cognitive Bias]",
-				"genre": "CLUB/STUBBORN",
-				"artist": "sasakure.UK x ArmyTom  w/z Bitplane",
-				"subartist": "Movie:pam x HDLV/obj.Zethiwo",
-				"md5": "e2b3bd5a3bf5bf166e7c6625bfa5531d",
-				"sha256": "4495c62a5c68cd019bd96e38fb8c05ea911a991447747136fc7fe89e56743c63",
-                                                                "url" : "",
-                                                                "url_diff" : "https://stellabms.xyz/upload/5862"
-			},
+     
 							{
 			                                               "level" : "10",
                                                                 "comment" : "異格9",
