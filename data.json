@@ -1732,18 +1732,18 @@
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/5521"
   },
-  {
+ {
     "level": "13",
-    "comment": "★25/ST7-8",
-    "title": "Quadrupolar",
-    "subtitle": "[奏]",
-    "genre": "音楽キメラ",
-    "artist": "暮狛",
-    "subartist": "obj.Beat Demon",
-    "md5": "cddeb2c7ede60c91919d967fefb83b02",
-    "sha256": "1fa7e1b314b44cc9347797ee8020c6a3b66d2f6495938f3e0101842d5b67ec32",
+    "comment": "★25/ST7",
+    "title": "FORBIDDEN",
+    "subtitle": "[SEAL]",
+    "genre": "ANTHEM SPEEDCORE",
+    "artist": "403 ERROR/obj.Zethiwo",
+    "subartist": "Image by HEART CREATE",
+    "md5": "c3ccbbbae61d0c9cdc46a25527413f71",
+    "sha256": "2a353252c49bf2deb7c877c608bcd99e276261bf0e263f0bff6e805b8d0e7343",
     "url": "",
-    "url_diff": "https://stellabms.xyz/upload/7033"
+    "url_diff": "https://stellabms.xyz/upload/6839"
   },
   {
     "level": "13",
@@ -1837,6 +1837,19 @@
     "url_diff": "https://stellabms.xyz/upload/6503"
   },
   {
+    "level": "16",
+    "comment": "★27/ST11",
+    "title": "FORBIDDEN",
+    "subtitle": "[Capricornus]",
+    "genre": "ANTHEM SPEEDCORE",
+    "artist": "403 ERROR/obj.Zethiwo",
+    "subartist": "Image by HEART CREATE",
+    "md5": "46bed8f8f6f3a2ef790e102f08f854ff",
+    "sha256": "6a1ce9bcdbeeab2159533e187051f07c46e85a0204032c0933c7654d1255be85",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/6839"
+  },    
+  {
     "level": "?o?",
     "comment": "★5",
     "title": "Better Graphic Animation",
@@ -1902,6 +1915,19 @@
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/3020"
   },
+  {
+    "level": "?o?",
+    "comment": "★★5",
+    "title": "Quadrupolar",
+    "subtitle": "[奏]",
+    "genre": "音楽キメラ",
+    "artist": "暮狛",
+    "subartist": "obj.Beat Demon",
+    "md5": "cddeb2c7ede60c91919d967fefb83b02",
+    "sha256": "1fa7e1b314b44cc9347797ee8020c6a3b66d2f6495938f3e0101842d5b67ec32",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/7033"
+  },    
   {
     "level": "?o?",
     "comment": "★★4-5",
