@@ -1500,17 +1500,17 @@
   },
   {
     "level": "11",
-    "comment": "★23/ST3",
-    "title": "L_ST",
-    "subtitle": "[ENCORE | Silentia]",
-    "genre": "ROCK",
-    "artist": "SpadeK",
-    "subartist": "Tuning:鬼面P Illust:Otaku_宅 BGA:安二 obj:Zethiwo",
-    "md5": "72b1e298656013f4f749de1619270a3c",
-    "sha256": "8b0358111b908ec35013056e88aa8d1e51d7a0e9b52e4883358d270fc64758cb",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=146",
-    "url_diff": ""
-  },
+    "comment": "★23/ST3-4",
+    "title": "GOODTEK",
+    "subtitle": "[10000T]",
+    "genre": "GOODPUMP",
+    "artist": "EBIMAYO",
+    "subartist": "obj by Zethiwo",
+    "md5": "29b362ee80e3c6b9e542706fee51242e",
+    "sha256": "155386b3f225726eb87dcb17b84f50f87ad6e39bd597de3803c483d76ed38560",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/4258"
+  },    
   {
     "level": "11",
     "comment": "★24/ST4-5",
@@ -1591,20 +1591,7 @@
   },
   {
     "level": "12",
-    "comment": "★24/ST4-5",
-    "title": "GOODTEK",
-    "subtitle": "[10000T]",
-    "genre": "GOODPUMP",
-    "artist": "EBIMAYO",
-    "subartist": "obj by Zethiwo",
-    "md5": "29b362ee80e3c6b9e542706fee51242e",
-    "sha256": "155386b3f225726eb87dcb17b84f50f87ad6e39bd597de3803c483d76ed38560",
-    "url": "",
-    "url_diff": "https://stellabms.xyz/upload/4258"
-  },
-  {
-    "level": "12",
-    "comment": "★24/ST5",
+    "comment": "★24/ST5-6",
     "title": "Quickening 2 the RED",
     "subtitle": "[BANQUET DANCEFLOOR]",
     "genre": "ETHEREAL ELECTRONIC",
@@ -1626,6 +1613,19 @@
     "md5": "8d9483c797d10912c2902e8988ada2ff",
     "sha256": "f52bdd4f6e0bcc0c3848cc7d968d6283815d6f9c09840c0445436504b262b472",
     "url": "",
+    "url_diff": ""
+  },
+  {
+    "level": "12",
+    "comment": "★24/ST5",
+    "title": "L_ST",
+    "subtitle": "[ENCORE | Silentia]",
+    "genre": "ROCK",
+    "artist": "SpadeK",
+    "subartist": "Tuning:鬼面P Illust:Otaku_宅 BGA:安二 obj:Zethiwo",
+    "md5": "72b1e298656013f4f749de1619270a3c",
+    "sha256": "8b0358111b908ec35013056e88aa8d1e51d7a0e9b52e4883358d270fc64758cb",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=414&event=146",
     "url_diff": ""
   },    
   {
