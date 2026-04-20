@@ -171,7 +171,7 @@
       {
     "level": "3",
     "comment": "sl6- (sl5.7)",
-    "title": "cold planet (Oceanfront City Remix) ",
+    "title": "cold planet (Oceanfront City Remix)",
     "subtitle": "[Tidebringer]",
     "genre": "Rave",
     "artist": "knot / Yamajet",
@@ -548,7 +548,7 @@
   {
     "level": "5",
     "comment": "sl7 (sl6.9)",
-    "title": "symbolic gear ",
+    "title": "symbolic gear",
     "subtitle": "[Machinical Punisher]",
     "genre": "schranz",
     "artist": "",
@@ -681,7 +681,7 @@
     "title": "Air",
     "subtitle": "[Immortal]",
     "genre": "TRANCE CORE",
-    "artist": "SHIKI ",
+    "artist": "SHIKI",
     "subartist": "obj by Zethiwo",
     "md5": "c33abab58725f3e5e76da91dddfb0856",
     "sha256": "5a62efc496af04c2fd3d07e2380616e7cb6c3366c4b97d7f22f50cace66c95f8",
@@ -951,7 +951,7 @@
   {
     "level": "8",
     "comment": "sl12- (sl11.5)",
-    "title": "symbolic gear ",
+    "title": "symbolic gear",
     "subtitle": "[Machinical Emperor]",
     "genre": "schranz",
     "artist": "siromaru/obj by Zethiwo",
@@ -1936,7 +1936,6 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=338&event=123",
     "url_diff": "https://stellabms.xyz/upload/2559"
   },
-
   {
     "level": "?o?",
     "comment": "sl6 (sl6.1)",
