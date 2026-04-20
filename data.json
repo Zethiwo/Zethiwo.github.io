@@ -1039,19 +1039,19 @@
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/4016"
   },
-  {
-    "level": "9",
-    "comment": "sl11+ (sl11.4)",
-    "title": "tinnitus",
-    "subtitle": "[Dizzy]",
-    "genre": "hardcore techno",
-    "artist": "SP-#",
-    "subartist": "obj.Zethiwo",
-    "md5": "f6dfd058f7eee46637e03a117d64f8b8",
-    "sha256": "76b5946af58f799aad4ecc0425e4d349244a873df986dedcc9f404a4698094b7",
-    "url": "",
-    "url_diff": "https://stellabms.xyz/upload/5519"
-  },
+    {
+  "level": "9",
+  "comment": "sl11+ (sl11.4)",
+  "title": "tinnitus",
+  "subtitle": "[Dizzy]",
+  "genre": "hardcore techno",
+  "artist": "SP-#",
+  "subartist": "obj.Zethiwo",
+  "md5": "f6dfd058f7eee46637e03a117d64f8b8",
+  "sha256": "76b5946af58f799aad4ecc0425e4d349244a873df986dedcc9f404a4698094b7",
+  "url": "",
+  "url_diff": "https://stellabms.xyz/upload/5519"
+}
   {
     "level": "9",
     "comment": "st0+ (st0.4)",
