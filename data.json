@@ -1,7 +1,7 @@
 [
     {
     "level": "0",
-    "comment": "☆11/SL0",
+    "comment": "sl0- (sl-0.4)",
     "title": "reveL",
     "subtitle": "[Pure]",
     "genre": "PHANTASIA",
@@ -14,7 +14,7 @@
   },
   {
     "level": "0",
-    "comment": "★1/SL1",
+    "comment": "sl1- (sl0.7)",
     "title": "ｑａяσｌГФ｜ ΣθгＬｐ",
     "subtitle": "[Watcher]",
     "genre": "エレクトロニカ",
@@ -27,7 +27,7 @@
   },
   {
     "level": "1",
-    "comment": "★1/SL1",
+    "comment": "sl1+ (sl1.2)",
     "title": "reveL",
     "subtitle": "[Holy]",
     "genre": "PHANTASIA",
@@ -53,20 +53,7 @@
   },
   {
     "level": "1",
-    "comment": "★3/SL2",
-    "title": "Sweet Star☆",
-    "subtitle": "[SP ANOTHER]",
-    "genre": "Happycore",
-    "artist": "世界の花",
-    "subartist": "obj.アカエイ",
-    "md5": "fc9941a1be36e25beb84f12c20b90362",
-    "sha256": "31fd3be0f0da2ad81bccfde2f986aa573bf927bdfc4a679f69081b21a075fc2f",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=223&event=146",
-    "url_diff": ""
-  },
-  {
-    "level": "1",
-    "comment": "★2/SL1",
+    "comment": "sl1- (sl0.5)",
     "title": "SHERRY FLIP",
     "subtitle": "[Intoxicated]",
     "genre": "Electro swing",
@@ -79,7 +66,7 @@
   },
   {
     "level": "1",
-    "comment": "★3/SL2",
+    "comment": "sl2- (sl1.6)",
     "title": "鋼の雫",
     "subtitle": "-Catch The Rainbow-",
     "genre": "HOUSE",
@@ -92,7 +79,7 @@
   },
   {
     "level": "1",
-    "comment": "★4/SL2",
+    "comment": "sl2+ (sl2.3)",
     "title": "D3C3MB3R",
     "subtitle": "[HAND5 U9]",
     "genre": "ULTRA SCRATCH MACHINE",
@@ -105,20 +92,7 @@
   },
   {
     "level": "2",
-    "comment": "★6/SL3",
-    "title": "cold planet (Oceanfront City Remix) ",
-    "subtitle": "[Tidebringer]",
-    "genre": "Rave",
-    "artist": "knot / Yamajet",
-    "subartist": "BGA: ichiAIR/Obj by Zethiwo",
-    "md5": "543886d8ae40da6f8f09b5ba48f1ed8a",
-    "sha256": "9629200f1b31a5bfa07c3095a1dbbfa15bde515d06e1133b5129a32247b1ca8e",
-    "url": "http://www.yamajet.com/archives/category/bms-%e4%b8%80%e8%a6%a7",
-    "url_diff": "https://stellabms.xyz/upload/3175"
-  },
-  {
-    "level": "2",
-    "comment": "★5/SL3",
+    "comment": "sl3- (sl2.5)",
     "title": "ZOOQUU",
     "subtitle": "[mvm]",
     "genre": "MOOMBAHCORE",
@@ -193,6 +167,19 @@
     "sha256": "f2e030ebe6f3f0bf6858a9ae4fb7d785b9eb2125b66a7d93bcdcf07358cba8ee",
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/2055"
+  },
+      {
+    "level": "3",
+    "comment": "sl6- (sl5.7)",
+    "title": "cold planet (Oceanfront City Remix) ",
+    "subtitle": "[Tidebringer]",
+    "genre": "Rave",
+    "artist": "knot / Yamajet",
+    "subartist": "BGA: ichiAIR/Obj by Zethiwo",
+    "md5": "543886d8ae40da6f8f09b5ba48f1ed8a",
+    "sha256": "9629200f1b31a5bfa07c3095a1dbbfa15bde515d06e1133b5129a32247b1ca8e",
+    "url": "http://www.yamajet.com/archives/category/bms-%e4%b8%80%e8%a6%a7",
+    "url_diff": "https://stellabms.xyz/upload/3175"
   },
   {
     "level": "3",
@@ -365,7 +352,7 @@
   },
   {
     "level": "4",
-    "comment": "★10-11/SL5-6",
+    "comment": "sl8- (sl7.6)",
     "title": "Absurd Gaff",
     "subtitle": "[Mechanical Reaper]",
     "genre": "schranz",
@@ -938,7 +925,7 @@
   },
   {
     "level": "8",
-    "comment": "★18/SL12",
+    "comment": "sl12- (sl11.8)",
     "title": "D3C3MB3R",
     "subtitle": "[G0⇒G0⇒G0⇒G0⇒G0⇒G0⇒AH3AD]",
     "genre": "ULTRA SCRATCH MACHINE",
@@ -1982,7 +1969,7 @@
   },
   {
     "level": "?o?",
-    "comment": "★12？,foon譜面",
+    "comment": "sl10- (sl9.7)",
     "title": "SHERRY FLIP",
     "subtitle": "[ULTIMATUM]",
     "genre": "Electro swing",
