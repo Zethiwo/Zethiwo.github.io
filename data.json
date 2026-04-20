@@ -922,18 +922,18 @@
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=405&event=133",
     "url_diff": "https://stellabms.xyz/upload/3603"
   },
-   {
-"level": "8",
-"comment": "sl12 (sl12.0)",
-"title": "Death Waltz",
-"subtitle": "[Delusion]",
-"genre": "Death Waltz",
-"artist": "Shinji Hirako",
-"subartist": "obj.Zethiwo",
-"md5": "542669de30b700d407d56bd82bf02434",
-"sha256": "8b7feb2ed44f2463721e813246d6a24ce63d63ff8f1acd064f3e734cc0ab9d2d",
-"url": "",
-"url_diff": "https://stellabms.xyz/upload/7183"
+  {
+  "level": "8",
+  "comment": "sl12 (sl12.0)",
+  "title": "Death Waltz",
+  "subtitle": "[Delusion]",
+  "genre": "Death Waltz",
+  "artist": "Shinji Hirako",
+  "subartist": "obj.Zethiwo",
+  "md5": "542669de30b700d407d56bd82bf02434",
+  "sha256": "8b7feb2ed44f2463721e813246d6a24ce63d63ff8f1acd064f3e734cc0ab9d2d",
+  "url": "",
+  "url_diff": "https://stellabms.xyz/upload/7183"
   },
   {
     "level": "8",
@@ -1767,18 +1767,18 @@
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/4534"
   },
-{
-"level": "13",
-"comment": "st7 (st7.1)",
-"title": "Death Waltz",
-"subtitle": "[HTSTERIA]",
-"genre": "Death Waltz",
-"artist": "Shinji Hirako",
-"subartist": "obj.Zethiwo",
-"md5": "cbdc4124a70397f820df4622a0fafe75",
-"sha256": "665ef8699ba5d6b6d430a9b0bb79c9bfe07c9b78ad11e7a28f852577acc4aa39",
-"url": "",
-"url_diff": "https://stellabms.xyz/upload/7183"
+  {
+   "level": "13",
+   "comment": "st7 (st7.1)",
+   "title": "Death Waltz",
+   "subtitle": "[HTSTERIA]",
+   "genre": "Death Waltz",
+   "artist": "Shinji Hirako",
+   "subartist": "obj.Zethiwo",
+   "md5": "cbdc4124a70397f820df4622a0fafe75",
+   "sha256": "665ef8699ba5d6b6d430a9b0bb79c9bfe07c9b78ad11e7a28f852577acc4aa39",
+   "url": "",
+   "url_diff": "https://stellabms.xyz/upload/7183"
   },
   {
     "level": "13",
@@ -1859,17 +1859,17 @@
     "url_diff": "https://stellabms.xyz/upload/6503"
   },
   {
-"level": "15",
-"comment": "st10 (st10.2)",
-"title": "堕楽の園",
-"subtitle": "[夜殤の魔女]",
-"genre": "ILLEGAL GOTHIC SCHRANZ",
-"artist": "witch's slave",
-"subartist": "Graphic by Est/obj.Zethiwo",
-"md5": "b53d26bab04a40a55cfceae49838f2ec",
-"sha256": "c7663c80901976094b22a544a204dd87af8302245e4d6ca74c7c6eb0fe5203a5",
-"url": "",
-"url_diff": "https://stellabms.xyz/upload/7183"
+   "level": "15",
+   "comment": "st10 (st10.2)",
+   "title": "堕楽の園",
+   "subtitle": "[夜殤の魔女]",
+   "genre": "ILLEGAL GOTHIC SCHRANZ",
+   "artist": "witch's slave",
+   "subartist": "Graphic by Est/obj.Zethiwo",
+   "md5": "b53d26bab04a40a55cfceae49838f2ec",
+   "sha256": "c7663c80901976094b22a544a204dd87af8302245e4d6ca74c7c6eb0fe5203a5",
+   "url": "",
+   "url_diff": "https://stellabms.xyz/upload/7183"
   },
   {
     "level": "16",
