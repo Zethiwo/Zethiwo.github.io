@@ -651,7 +651,7 @@
   },
   {
     "level": "6",
-    "comment": "★14-15/SL9-10",
+    "comment": "sl9 (sl9.0)",
     "title": "GOODTEK",
     "subtitle": "[100T]",
     "genre": "GOODPUMP",
@@ -664,7 +664,7 @@
   },
   {
     "level": "6",
-    "comment": "★15-16/SL10",
+    "comment": "sl11- (sl10.8)",
     "title": "We are the xxxx",
     "subtitle": "-Invaders-",
     "genre": "freeform",
@@ -677,7 +677,7 @@
   },
   {
     "level": "6",
-    "comment": "★13/SL8",
+    "comment": "sl9+ (sl9.4)",
     "title": "Air",
     "subtitle": "[Immortal]",
     "genre": "TRANCE CORE",
@@ -703,7 +703,7 @@
   },
   {
     "level": "6",
-    "comment": "★16/SL10",
+    "comment": "sl8+ (sl8.4)",
     "title": "Subjection Method",
     "subtitle": "- 0 or 1 -",
     "genre": "PSYCHEDELIC TRANCE",
@@ -716,7 +716,7 @@
   },
   {
     "level": "6",
-    "comment": "★16/SL10",
+    "comment": "sl11- (sl10.6)",
     "title": "Psychedelic Ritual",
     "subtitle": "[Trauma]",
     "genre": "psycore",
@@ -729,7 +729,7 @@
   },
   {
     "level": "6",
-    "comment": "★16/SL10",
+    "comment": "sl8+ (sl8.5)",
     "title": "Ms. Steam",
     "subtitle": "[Elementary My Dear]",
     "genre": "テクニカル探偵キネマ",
@@ -742,7 +742,7 @@
   },
   {
     "level": "6",
-    "comment": "★15-16/SL10",
+    "comment": "sl10 (sl9.8)",
     "title": "CO5M1C R4ILR0AD",
     "subtitle": "[夢の箱舟]",
     "genre": "Hi-NRGTECH Trance",
@@ -755,7 +755,7 @@
   },
   {
     "level": "6",
-    "comment": "★16-17/SL10-11",
+    "comment": "sl11 (sl11.2)	",
     "title": "Black Lotus",
     "subtitle": "-深淵の花-",
     "genre": "GrimReaper",
@@ -781,7 +781,7 @@
   },
   {
     "level": "7",
-    "comment": "★16",
+    "comment": "sl9- (sl8.5)",
     "title": "Infinite Galaxy",
     "subtitle": "[Limit Collapse]",
     "genre": "Energetic Trance",
@@ -794,7 +794,7 @@
   },
   {
     "level": "7",
-    "comment": "★17",
+    "comment": "sl10+ (sl10.3)",
     "title": "EXILE",
     "subtitle": "-No Man's Land-",
     "genre": "Goa Trance",
@@ -820,7 +820,7 @@
   },
   {
     "level": "7",
-    "comment": "★17-18/SL11-12",
+    "comment": "sl11 (sl10.9)",
     "title": "Dynasty of Extinction",
     "subtitle": "[!CRETACEOUS!]",
     "genre": "Hybrid Jungle Terror",
@@ -846,7 +846,7 @@
   },
   {
     "level": "7",
-    "comment": "★16-17/SL11",
+    "comment": "sl10 (sl10.1)",
     "title": "MESMERA",
     "subtitle": "[離未罔両]",
     "genre": "ENCORE",
@@ -859,7 +859,7 @@
   },
   {
     "level": "7",
-    "comment": "★17-18/SL11-12",
+    "comment": "sl11- (sl10.7)",
     "title": "Fastraffic",
     "subtitle": "-120KM/H-",
     "genre": "techno",
@@ -872,7 +872,7 @@
   },
   {
     "level": "7",
-    "comment": "★17-18/SL11",
+    "comment": "sl10+ (sl10.3)",
     "title": "Pure White † Crimson Coffin",
     "subtitle": "[Self-awakening]",
     "genre": "Lapse Observer",
@@ -885,7 +885,7 @@
   },
   {
     "level": "7",
-    "comment": "★17-18/SL11-12",
+    "comment": "sl12 (sl12.1)",
     "title": "Gleam of Aigis",
     "subtitle": "-Azure Strike-",
     "genre": "Hardcore",
@@ -924,7 +924,7 @@
   },
    {
 "level": "8",
-"comment": "SL",
+"comment": "sl12 (sl12.0)",
 "title": "Death Waltz",
 "subtitle": "[Delusion]",
 "genre": "Death Waltz",
@@ -934,6 +934,19 @@
 "sha256": "8b7feb2ed44f2463721e813246d6a24ce63d63ff8f1acd064f3e734cc0ab9d2d",
 "url": "",
 "url_diff": "https://stellabms.xyz/upload/7183"
+  },
+  {
+    "level": "8",
+    "comment": "sl11+ (sl11.5)",
+    "title": "NS22",
+    "subtitle": "[Hell Force]",
+    "genre": "SAMPLING HARDCORE",
+    "artist": "3034",
+    "subartist": "obj by Zethiwo",
+    "md5": "55bbe1462d895bb51f5ff21f747169e3",
+    "sha256": "3d5c321ed9db3cb9c4c67ffbaab75d895c903c30fe2a63471b8dc1aeec24a871",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/3930"
   },
   {
     "level": "8",
@@ -963,19 +976,6 @@
   },
   {
     "level": "8",
-    "comment": "★19/SL12",
-    "title": "H.S : Hadron Strike",
-    "subtitle": "[H Stand For HAZARD_fix]",
-    "genre": "Cyber Core",
-    "artist": "zest:rave",
-    "subartist": "obj by Zethiwo",
-    "md5": "5de86ec1316e33981c65d9cbf2901488",
-    "sha256": "abf4dd623b3893bca91b67d0c498741d4f07418073b78f0c680275b175b5b07e",
-    "url": "",
-    "url_diff": "https://stellabms.xyz/upload/4016"
-  },
-  {
-    "level": "8",
     "comment": "★18/SL12",
     "title": "CONST",
     "subtitle": "[SP ETERNAL]",
@@ -989,7 +989,7 @@
   },
   {
     "level": "8",
-    "comment": "★18/SL12",
+    "comment": "sl11+ (sl11.3)",
     "title": "Centurion",
     "subtitle": "[TRIUMPHAL]",
     "genre": "Symphonic SynthRock",
@@ -1002,7 +1002,7 @@
   },
   {
     "level": "8",
-    "comment": "★18/SL12",
+    "comment": "sl11- (sl10.5)",
     "title": "ReviXy",
     "subtitle": "[ >o< <o< >o> <o>]",
     "genre": "Freeform",
@@ -1028,22 +1028,20 @@
   },
   {
     "level": "9",
-    "comment": "★19-20/ST0",
-    "title": "New York Back Raise",
-    "subtitle": "[Check Or Raise]",
-    "genre": "TEXAS HOLD'EM",
-    "artist": "saaa + kei_iwata + stuv + わかどり",
-    "subartist": "BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼/obj by Zethiwo",
-    "md5": "79c5880f2c92cb7dfec0f42a21c77c81",
-    "sha256": "d5acc7bcb293a764f8a16868996ff03c861fcbeb0d7a167340fe60574747670b",
-    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=140",
-    "url_diff": "https://stellabms.xyz/upload/3480"
+    "comment": "st2 (st2.2)",
+    "title": "H.S : Hadron Strike",
+    "subtitle": "[H Stand For HAZARD_fix]",
+    "genre": "Cyber Core",
+    "artist": "zest:rave",
+    "subartist": "obj by Zethiwo",
+    "md5": "5de86ec1316e33981c65d9cbf2901488",
+    "sha256": "abf4dd623b3893bca91b67d0c498741d4f07418073b78f0c680275b175b5b07e",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/4016"
   },
-
-
   {
     "level": "9",
-    "comment": "★20-21/ST0-1",
+    "comment": "sl11+ (sl11.4)",
     "title": "tinnitus",
     "subtitle": "[Dizzy]",
     "genre": "hardcore techno",
@@ -1056,7 +1054,7 @@
   },
   {
     "level": "9",
-    "comment": "★",
+    "comment": "st0+ (st0.4)",
     "title": "diSTractiOn PoInT",
     "subtitle": "[drEAmscaPe DrIfT]",
     "genre": "ELECTRONIC DANCING MUSIC",
@@ -1069,7 +1067,7 @@
   },
   {
     "level": "9",
-    "comment": "★20-21/st0-1",
+    "comment": "st0+ (st0.2)",
     "title": "Alastor",
     "subtitle": "[走馬灯]",
     "genre": "DarkBreaks",
@@ -1108,21 +1106,7 @@
   },
   {
     "level": "9",
-    "comment": "★18/SL12",
-    "title": "NS22",
-    "subtitle": "[Hell Force]",
-    "genre": "SAMPLING HARDCORE",
-    "artist": "3034",
-    "subartist": "obj by Zethiwo",
-    "md5": "55bbe1462d895bb51f5ff21f747169e3",
-    "sha256": "3d5c321ed9db3cb9c4c67ffbaab75d895c903c30fe2a63471b8dc1aeec24a871",
-    "url": "",
-    "url_diff": "https://stellabms.xyz/upload/3930"
-  },
-
-  {
-    "level": "9",
-    "comment": "★21/ST1",
+    "comment": "st1+ (st1.4)",
     "title": "Celestial Axes",
     "subtitle": "-天窮の斧-",
     "genre": "GrimReaper",
@@ -1135,7 +1119,7 @@
   },
   {
     "level": "9",
-    "comment": "★20/ST0",
+    "comment": "st1+ (st1.3)",
     "title": "Angelic layer",
     "subtitle": "[GARDEN]",
     "genre": "TRANCE",
@@ -1148,7 +1132,7 @@
   },
   {
     "level": "9",
-    "comment": "★20-21/ST0-1",
+    "comment": "st0+ (st0.3)",
     "title": "秩序の秋桜",
     "subtitle": "-裁决者-",
     "genre": "CYBER OPUS",
@@ -1161,7 +1145,7 @@
   },
   {
     "level": "9",
-    "comment": "★20/ST0",
+    "comment": "st0 (st0.0)",
     "title": "Air",
     "subtitle": "[Eternal]",
     "genre": "TRANCE CORE",
@@ -1174,7 +1158,7 @@
   },
   {
     "level": "9",
-    "comment": "★19-20/ST0",
+    "comment": "st1 (st1.0)",
     "title": "Messier 333",
     "subtitle": "[NEO Zealot]",
     "genre": "HARD TECHNO",
@@ -1187,7 +1171,7 @@
   },
   {
     "level": "9",
-    "comment": "★21/ST1",
+    "comment": "st2 (st2.0)",
     "title": "Eureka",
     "subtitle": "[Cognitive Bias]",
     "genre": "CLUB/STUBBORN",
@@ -1200,7 +1184,7 @@
   },
   {
     "level": "9",
-    "comment": "★20-21/ST1",
+    "comment": "st1+ (st1.2)",
     "title": "Toki (Sound piercer's Timesucker Remix)",
     "subtitle": "[Beyond The Century]",
     "genre": "Freeform / Gabber",
@@ -1213,7 +1197,7 @@
   },
   {
     "level": "9",
-    "comment": "★20/ST0",
+    "comment": "st2 (st2.0)",
     "title": "Gothic System -C.H.S_NRG Mix-",
     "subtitle": "[Mechanical Tyrant]",
     "genre": "FREEFORM HARDCORE",
@@ -1223,6 +1207,19 @@
     "sha256": "97f9e734369c5dd23b89d699faa78da5e91468159c680085abc6800fc4005e9f",
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/3810"
+  },
+      {
+    "level": "9",
+    "comment": "st1 (st0.8)",
+    "title": "Doppelganger",
+    "subtitle": "[Avatar]",
+    "genre": "EINSAMKEIT",
+    "artist": "LeaF",
+    "subartist": "Movie:To7/obj by Zethiwo",
+    "md5": "256e992c5e33abeb98e3448c0aa81f07",
+    "sha256": "f60395fdc98e099c21784c60b55e46baaa1ef91273dc84b6a05d11891caf7b47",
+    "url": "",
+    "url_diff": ""
   },
   {
     "level": "9",
@@ -1252,7 +1249,7 @@
   },
   {
     "level": "9",
-    "comment": "★21/ST1",
+    "comment": "st0- (st-0.3)",
     "title": "T.S : Terminal Strike",
     "subtitle": "-T Stand For TERROR-",
     "genre": "Hyper Techno",
@@ -1265,7 +1262,7 @@
   },
   {
     "level": "10",
-    "comment": "★21-22/ST2",
+    "comment": "st3- (st2.7)",
     "title": "Psychedelic Ritual",
     "subtitle": "[Devastation]",
     "genre": "psycore",
@@ -1304,7 +1301,20 @@
   },
   {
     "level": "10",
-    "comment": "★22/ST2",
+    "comment": "st2 (st2.1)",
+    "title": "New York Back Raise",
+    "subtitle": "[Check Or Raise]",
+    "genre": "TEXAS HOLD'EM",
+    "artist": "saaa + kei_iwata + stuv + わかどり",
+    "subartist": "BGA : すずあ with saaa & 内村徹 & もがみ & KeiuO & 空読無 白眼/obj by Zethiwo",
+    "md5": "79c5880f2c92cb7dfec0f42a21c77c81",
+    "sha256": "d5acc7bcb293a764f8a16868996ff03c861fcbeb0d7a167340fe60574747670b",
+    "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=140",
+    "url_diff": "https://stellabms.xyz/upload/3480"
+  },
+  {
+    "level": "10",
+    "comment": "st3 (st2.8)",
     "title": "SCARY BANQUET",
     "subtitle": "[Gula]",
     "genre": "Terror",
@@ -1317,7 +1327,7 @@
   },
   {
     "level": "10",
-    "comment": "★22/ST2",
+    "comment": "st2 (st1.9)",
     "title": "東",
     "subtitle": "[禅]",
     "genre": "ALTERNATIVE WORLD",
@@ -1330,7 +1340,7 @@
   },    
   {
     "level": "10",
-    "comment": "★22-23/ST2-3",
+    "comment": "st3 (st2.9)",
     "title": "We are the xxxx",
     "subtitle": "[Grand Invaders]",
     "genre": "freeform",
@@ -1343,7 +1353,7 @@
   },
   {
     "level": "10",
-    "comment": "★22/ST2",
+    "comment": "st3 (st3.2)",
     "title": "Freja",
     "subtitle": "-Phlogistic Pillar-",
     "genre": "NUSTYLE GABBA",
@@ -1356,7 +1366,7 @@
   },
   {
     "level": "10",
-    "comment": "★22/ST2",
+    "comment": "st1 (st0.8)",
     "title": "Blackest Luxury Car",
     "subtitle": "[BIG BOSS is Watching U]",
     "genre": "Drum and Bass",
@@ -1369,7 +1379,7 @@
   },
   {
     "level": "10",
-    "comment": "★22/ST2,Sabun-Shuffle Summer Season参赛作",
+    "comment": "st3- (st2.7),Sabun-Shuffle Summer Season参赛作",
     "title": "DTD Emperor",
     "subtitle": "[Khorne]",
     "genre": "DRUM'N BASS",
@@ -1395,19 +1405,6 @@
   },
   {
     "level": "10",
-    "comment": "★21/ST1",
-    "title": "Doppelganger",
-    "subtitle": "[Avatar]",
-    "genre": "EINSAMKEIT",
-    "artist": "LeaF",
-    "subartist": "Movie:To7/obj by Zethiwo",
-    "md5": "256e992c5e33abeb98e3448c0aa81f07",
-    "sha256": "f60395fdc98e099c21784c60b55e46baaa1ef91273dc84b6a05d11891caf7b47",
-    "url": "",
-    "url_diff": ""
-  },
-  {
-    "level": "10",
     "comment": "st2+ (st2.3)",
     "title": "Crimson Liar",
     "subtitle": "-Infatuated Ⅱ-",
@@ -1421,7 +1418,7 @@
   },
   {
     "level": "10",
-    "comment": "★22/ST2",
+    "comment": "st2- (st1.6)",
     "title": "G403 (bms version)",
     "subtitle": "[Annihilation into Desolation]",
     "genre": "forbidden REMIX",
@@ -1447,7 +1444,7 @@
   },
   {
     "level": "10",
-    "comment": "★23/ST3",
+    "comment": "st3- (st2.7)",
     "title": "Misdirection",
     "subtitle": "[无尽長廊]",
     "genre": "CONFUSION",
@@ -1460,7 +1457,7 @@
   },
   {
     "level": "11",
-    "comment": "★23-24/ST3-4",
+    "comment": "st5 (st5.0)	",
     "title": "Ultimate Weapon",
     "subtitle": "[End of Myth]",
     "genre": "EMOTIONAL TRANCECORE",
@@ -1473,7 +1470,7 @@
   },
   {
     "level": "11",
-    "comment": "★23/ST3",
+    "comment": "st3 (st2.9)",
     "title": "Angel dust",
     "subtitle": "[Interwined Fate]",
     "genre": "HARD NRG",
@@ -1486,7 +1483,7 @@
   },
   {
     "level": "11",
-    "comment": "★23/ST3",
+    "comment": "st3+ (st3.4)",
     "title": "VALLISTA",
     "subtitle": "[R'lyeh]",
     "genre": "Overture / IDM",
@@ -1499,7 +1496,7 @@
   },
   {
     "level": "11",
-    "comment": "★23/ST3-4",
+    "comment": "st4+ (st4.2)",
     "title": "GOODTEK",
     "subtitle": "[10000T]",
     "genre": "GOODPUMP",
@@ -1512,7 +1509,7 @@
   },    
   {
     "level": "11",
-    "comment": "★24/ST4-5",
+    "comment": "st4 (st3.9)",
     "title": "Cynical ",
     "subtitle": "[散]",
     "genre": "TECHNO",
@@ -1525,7 +1522,7 @@
   },
   {
     "level": "11",
-    "comment": "★24/ST4",
+    "comment": "st2 (st2.0)",
     "title": "Southern Cross",
     "subtitle": "[南斗翔鷲屠脚]",
     "genre": "Inst.",
@@ -1538,7 +1535,7 @@
   },
   {
     "level": "11",
-    "comment": "★23/ST3-4",
+    "comment": "st4 (st3.9)",
     "title": "DISCHARGE RUSH",
     "subtitle": "[Fanatical Scavenger]",
     "genre": "ROTTERDAM TECHNO",
@@ -1551,7 +1548,7 @@
   },
   {
     "level": "11",
-    "comment": "★23/ST3",
+    "comment": "st1+ (st1.5)",
     "title": "Titanomaquia",
     "subtitle": "-極楽地獄-",
     "genre": "神統譜",
@@ -1577,7 +1574,7 @@
   },
   {
     "level": "12",
-    "comment": "★24/ST4-5",
+    "comment": "st4- (st3.5)",
     "title": "MESMERA",
     "subtitle": "[魑魅魍魎]",
     "genre": "ENCORE",
@@ -1629,7 +1626,7 @@
   },    
   {
     "level": "12",
-    "comment": "★24/ST5-6",
+    "comment": "st7 (st7.1)",
     "title": "Destroyer",
     "subtitle": "[Vanquisher]",
     "genre": "Freeform",
@@ -1642,7 +1639,7 @@
   },
   {
     "level": "12",
-    "comment": "★24/ST5-6",
+    "comment": "st5 (st5.0)",
     "title": "EXILE",
     "subtitle": "-Desolation-",
     "genre": "Goa Trance",
@@ -1655,7 +1652,7 @@
   },
   {
     "level": "12",
-    "comment": "★24/ST5",
+    "comment": "st6 (st6.0)",
     "title": "Hanky-Panky",
     "subtitle": "[EnJoY]",
     "genre": "Rotterdam Techno",
@@ -1681,7 +1678,7 @@
   },
   {
     "level": "13",
-    "comment": "★25/ST7",
+    "comment": "st6+ (st6.4)",
     "title": "Pure White † Crimson Coffin",
     "subtitle": "[Humanoid Revolution]",
     "genre": "Lapse Observer",
@@ -1694,7 +1691,7 @@
   },
   {
     "level": "13",
-    "comment": "★24/ST5-6",
+    "comment": "st5+ (st5.2)",
     "title": "Angelic layer",
     "subtitle": "EVERGARDEN",
     "genre": "TRANCE",
@@ -1707,7 +1704,7 @@
   },
   {
     "level": "13",
-    "comment": "★25/ST7",
+    "comment": "st6- (st5.8)",
     "title": "tinnitus",
     "subtitle": "[Illusion]",
     "genre": "hardcore techno",
@@ -1720,7 +1717,7 @@
   },
   {
     "level": "13",
-    "comment": "★25/ST7",
+    "comment": "st6 (st6.0)",
     "title": "NS20",
     "subtitle": "[エラー発生]",
     "genre": "ROTTERDAM TECHNO",
@@ -1731,9 +1728,22 @@
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/5521"
   },
+      {
+    "level": "13",
+    "comment": "st7 (st6.9)",
+    "title": "Quadrupolar",
+    "subtitle": "[奏]",
+    "genre": "音楽キメラ",
+    "artist": "暮狛",
+    "subartist": "obj.Beat Demon",
+    "md5": "cddeb2c7ede60c91919d967fefb83b02",
+    "sha256": "1fa7e1b314b44cc9347797ee8020c6a3b66d2f6495938f3e0101842d5b67ec32",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/7033"
+  },  
  {
     "level": "13",
-    "comment": "★25/ST7",
+    "comment": "st7 (st7.0)",
     "title": "FORBIDDEN",
     "subtitle": "[SEAL]",
     "genre": "ANTHEM SPEEDCORE",
@@ -1746,7 +1756,7 @@
   },
   {
     "level": "13",
-    "comment": "★25/ST7",
+    "comment": "st8 (st8.1)",
     "title": "SCARY BANQUET",
     "subtitle": "[Gluttony]",
     "genre": "Terror",
@@ -1759,7 +1769,7 @@
   },
 {
 "level": "13",
-"comment": "ST",
+"comment": "st7 (st7.1)",
 "title": "Death Waltz",
 "subtitle": "[HTSTERIA]",
 "genre": "Death Waltz",
@@ -1772,7 +1782,7 @@
   },
   {
     "level": "13",
-    "comment": "★25/ST7",
+    "comment": "st7 (st7.0)",
     "title": "VENDeTTA",
     "subtitle": "[Sting]",
     "genre": "AFGODSBEELD",
@@ -1785,7 +1795,7 @@
   },
   {
     "level": "13",
-    "comment": "★25/ST7-8",
+    "comment": "st8- (st7.6)",
     "title": "Satori ～3rd EyEs (bms edit)",
     "subtitle": "[Harbinger of Destruction]",
     "genre": "DANCE SPEED",
@@ -1798,7 +1808,7 @@
   },
   {
     "level": "14",
-    "comment": "★25/ST7-8",
+    "comment": "st9+ (st9.5)",
     "title": "Doppelganger",
     "subtitle": "[Gemini]",
     "genre": "EINSAMKEIT",
@@ -1824,7 +1834,7 @@
   },
   {
     "level": "15",
-    "comment": "★26/ST10-11",
+    "comment": "st10 (st10.0)",
     "title": "Gang Riots",
     "subtitle": "[LeT the HUNT begin!]",
     "genre": "UPTEMPO HARDCORE",
@@ -1837,7 +1847,7 @@
   },
   {
     "level": "15",
-    "comment": "★26/ST10-11",
+    "comment": "st10 (st10.0)",
     "title": "VENDeTTA",
     "subtitle": "[†Scorpio†]",
     "genre": "AFGODSBEELD",
@@ -1850,7 +1860,7 @@
   },
   {
 "level": "15",
-"comment": "ST",
+"comment": "st10 (st10.2)",
 "title": "堕楽の園",
 "subtitle": "[夜殤の魔女]",
 "genre": "ILLEGAL GOTHIC SCHRANZ",
@@ -1863,7 +1873,7 @@
   },
   {
     "level": "16",
-    "comment": "★27/ST11",
+    "comment": "st11 (st10.9)",
     "title": "FORBIDDEN",
     "subtitle": "[Capricornus]",
     "genre": "ANTHEM SPEEDCORE",
@@ -1876,7 +1886,7 @@
   },    
   {
     "level": "?o?",
-    "comment": "★5",
+    "comment": "sl1+ (sl1.4)",
     "title": "Better Graphic Animation",
     "subtitle": "-破片-",
     "genre": "DEJAVU",
@@ -1889,7 +1899,7 @@
   },
   {
     "level": "?o?",
-    "comment": "★10",
+    "comment": "sl5 (sl4.9)",
     "title": "Better Graphic Animation",
     "subtitle": "-虚象-",
     "genre": "DEJAVU",
@@ -1902,7 +1912,7 @@
   },
   {
     "level": "?o?",
-    "comment": "★16",
+    "comment": "sl10+ (sl10.2)",
     "title": "Better Graphic Animation",
     "subtitle": "-表象-",
     "genre": "DEJAVU",
@@ -1915,7 +1925,7 @@
   },
   {
     "level": "?o?",
-    "comment": "★23",
+    "comment": "st4 (st3.9)",
     "title": "Better Graphic Animation",
     "subtitle": "",
     "genre": "DEJAVU",
@@ -1929,7 +1939,7 @@
 
   {
     "level": "?o?",
-    "comment": "★15-16/SL10",
+    "comment": "sl6 (sl6.1)",
     "title": "anti-Overseer-",
     "subtitle": "",
     "genre": "MINIMAL",
@@ -1939,23 +1949,10 @@
     "sha256": "8b575ddc8a10789c21bbf5e87abf3a808e609469658efefa5d7a23ff929f43f8",
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/3020"
-  },
+  },  
   {
     "level": "?o?",
-    "comment": "★★5",
-    "title": "Quadrupolar",
-    "subtitle": "[奏]",
-    "genre": "音楽キメラ",
-    "artist": "暮狛",
-    "subartist": "obj.Beat Demon",
-    "md5": "cddeb2c7ede60c91919d967fefb83b02",
-    "sha256": "1fa7e1b314b44cc9347797ee8020c6a3b66d2f6495938f3e0101842d5b67ec32",
-    "url": "",
-    "url_diff": "https://stellabms.xyz/upload/7033"
-  },    
-  {
-    "level": "?o?",
-    "comment": "★★4-5",
+    "comment": "st6- (st5.6)",
     "title": "New period",
     "subtitle": "[Pay Attention NOW!]",
     "genre": "Footwork",
