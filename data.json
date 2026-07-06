@@ -1312,6 +1312,32 @@
     "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=1&event=140",
     "url_diff": "https://stellabms.xyz/upload/3480"
   },
+    {
+    "level": "10",
+    "comment": "st3 (st2.9)",
+    "title": "Drop Down",
+    "subtitle": "[Dimension↓Dominator]",
+    "genre": "Drum&Bass",
+    "artist": "LunaticSounds / ShiginoEicar",
+    "subartist": "obj.↑o↓",
+    "md5": "2f4fa3c21247114da50d24a4ebeffb0e",
+    "sha256": "d13a07d7115ac6d65e75081809996703e7265a0fab3bfc0dd9aa55470aa0cce7",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/7663"
+  },
+    {
+    "level": "10",
+    "comment": "st1 (st1.2)",
+    "title": "Ridddle",
+    "subtitle": "[FOG]",
+    "genre": "Riddle Core",
+    "artist": "Dinger Box feat. mokz",
+    "subartist": "BMS:Chart_Generator/obj.Mist Shade",
+    "md5": "",
+    "sha256": "",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/7664"
+  },
   {
     "level": "10",
     "comment": "st3 (st2.8)",
@@ -1818,6 +1844,32 @@
     "sha256": "2e0db4c338b50f7674ddcdcad015efc95aea8c5f845ec253db80715397b1330c",
     "url": "",
     "url_diff": ""
+  },
+ {
+    "level": "14",
+    "comment": "st9- (st8.7)",
+    "title": "Castor -tcheb HD-WLZ Remix-",
+    "subtitle": " [Colourful Sky]",
+    "genre": "",
+    "artist": "polysha remixed by tcheb / mov : murotani",
+    "subartist": "obj.異世界の色彩",
+    "md5": "1b00c4a839d3fd6ef053d49589c68853",
+    "sha256": "ab4ecf1d8f4f01a904c156fd4f1c0d06f73548c089a8b16b6d365211a27a76a3",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/7662"
+  },
+    {
+    "level": "14",
+    "comment": "st8 (st7.9)",
+    "title": "antilife",
+    "subtitle": "[裏世界]",
+    "genre": "---",
+    "artist": "甘党マニア",
+    "subartist": "obj.鏡中人",
+    "md5": "9cf9b3d897aa34e4f419c0b187525f96",
+    "sha256": "ccac9508b42e99e15931691bf8f0955e18efa19391f3766ed3872e60fb8d9da3",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/7661"
   },
   {
     "level": "15",
