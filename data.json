@@ -1674,7 +1674,7 @@
     "md5": "735514761d47016f540be7b527aed4d0",
     "sha256": "d80539d621ef935d154186ed2ae1c6fcc629411a1e5b8ca340a6e35f1e5b506a",
     "url": "",
-    "url_diff": ""
+    "url_diff": "https://stellabms.xyz/upload/8037"
   }, 
   {
     "level": "12",
@@ -1727,7 +1727,20 @@
     "sha256": "d4b620e1415ec57862a28c2fb5f006e78504390e178234a50b1510fe78a66933",
     "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=353&event=83",
     "url_diff": "https://stellabms.xyz/upload/3738"
-  },   
+  }, 
+{
+    "level": "13",
+    "comment": "st7",
+    "title": "oo i s oo - Perfection -[Mobius]",
+    "subtitle": "",
+    "genre": "PLECTRUM",
+    "artist": "TKR",
+    "subartist": "feat.singo BGI:高松/obj.Zethiwo",
+    "md5": "0408afcd856fa62a02cce732ef0cc8e0",
+    "sha256": "050a701c3c12b5d70ba4ee224f75db5629c53a107252660c8a1133b37c20c8c7",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/8036"
+  },
   {
     "level": "13",
     "comment": "st6+ (st6.4)",
@@ -1794,19 +1807,6 @@
     "url_diff": "https://stellabms.xyz/upload/6839"
   },
   {
-    "level": "13",
-    "comment": "st8 (st8.1)",
-    "title": "SCARY BANQUET",
-    "subtitle": "[Gluttony]",
-    "genre": "Terror",
-    "artist": "NIKITA / Optie",
-    "subartist": "obj by Zethiwo",
-    "md5": "0bda3961b7fb03b10e31097fac5642d0",
-    "sha256": "1b5f32e72597e4f41711bf0d4c1475b1712a8eaf9acf9ecbbc8277e54b232f53",
-    "url": "",
-    "url_diff": "https://stellabms.xyz/upload/4534"
-  },
-  {
    "level": "13",
    "comment": "st7 (st7.1)",
    "title": "Death Waltz",
@@ -1870,6 +1870,19 @@
     "sha256": "ab4ecf1d8f4f01a904c156fd4f1c0d06f73548c089a8b16b6d365211a27a76a3",
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/7662"
+  },
+  {
+    "level": "14",
+    "comment": "st8 (st8.1)",
+    "title": "SCARY BANQUET",
+    "subtitle": "[Gluttony]",
+    "genre": "Terror",
+    "artist": "NIKITA / Optie",
+    "subartist": "obj by Zethiwo",
+    "md5": "0bda3961b7fb03b10e31097fac5642d0",
+    "sha256": "1b5f32e72597e4f41711bf0d4c1475b1712a8eaf9acf9ecbbc8277e54b232f53",
+    "url": "",
+    "url_diff": "https://stellabms.xyz/upload/4534"
   },
     {
     "level": "14",
