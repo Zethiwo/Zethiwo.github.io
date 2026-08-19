@@ -690,19 +690,6 @@
   },
   {
     "level": "6",
-    "comment": "sl11- (sl10.6)",
-    "title": "多重極展開",
-    "subtitle": "[Spatial Deconstruction]",
-    "genre": "INSI break",
-    "artist": "Rocky",
-    "subartist": "obj by Zethiwo",
-    "md5": "6a67d20e8510d01f99c4c1a2b5741fe8",
-    "sha256": "5a87a3cd8225eea1636e34c29f5623e604bd963689e658c4fb4243c34c35d6d8",
-    "url": "",
-    "url_diff": ""
-  },
-  {
-    "level": "6",
     "comment": "sl8+ (sl8.4)",
     "title": "Subjection Method",
     "subtitle": "- 0 or 1 -",
@@ -778,6 +765,19 @@
     "sha256": "0903227241bc97eacf21a930f448d181f9af005badf7d0a0762cd8a8f229bde2",
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/2937"
+  },
+  {
+    "level": "7",
+    "comment": "sl11- (sl10.6)",
+    "title": "多重極展開",
+    "subtitle": "[Spatial Deconstruction]",
+    "genre": "INSI break",
+    "artist": "Rocky",
+    "subartist": "obj by Zethiwo",
+    "md5": "6a67d20e8510d01f99c4c1a2b5741fe8",
+    "sha256": "5a87a3cd8225eea1636e34c29f5623e604bd963689e658c4fb4243c34c35d6d8",
+    "url": "",
+    "url_diff": ""
   },
   {
     "level": "7",
@@ -1026,8 +1026,21 @@
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/3022"
   },
+    {
+  "level": "8",
+  "comment": "sl11+ (sl11.4)",
+  "title": "tinnitus",
+  "subtitle": "[Dizzy]",
+  "genre": "hardcore techno",
+  "artist": "SP-#",
+  "subartist": "obj.Zethiwo",
+  "md5": "f6dfd058f7eee46637e03a117d64f8b8",
+  "sha256": "76b5946af58f799aad4ecc0425e4d349244a873df986dedcc9f404a4698094b7",
+  "url": "",
+  "url_diff": "https://stellabms.xyz/upload/5519"
+},
   {
-    "level": "9",
+    "level": "8",
     "comment": "sl12 (sl12.0)",
     "title": "G e n g a o z o",
     "subtitle": "-Nihility†Legend-",
@@ -1065,19 +1078,6 @@
     "url": "",
     "url_diff": "https://stellabms.xyz/upload/4016"
   },
-    {
-  "level": "9",
-  "comment": "sl11+ (sl11.4)",
-  "title": "tinnitus",
-  "subtitle": "[Dizzy]",
-  "genre": "hardcore techno",
-  "artist": "SP-#",
-  "subartist": "obj.Zethiwo",
-  "md5": "f6dfd058f7eee46637e03a117d64f8b8",
-  "sha256": "76b5946af58f799aad4ecc0425e4d349244a873df986dedcc9f404a4698094b7",
-  "url": "",
-  "url_diff": "https://stellabms.xyz/upload/5519"
-},
   {
     "level": "9",
     "comment": "st0+ (st0.2)",
