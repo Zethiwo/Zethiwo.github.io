@@ -55,9 +55,9 @@
         ],
         "md5": [
           "8516b1672b53bd7cb9ea10de187cbe82",
-          "5dd6ea5a83138b0d182e90f2d542b33b",
           "9c5944d7b3cb8378705d18dfe336853f",
-          "9269aceb7ff4d5c9adc051d95aa3eea4"
+          "9269aceb7ff4d5c9adc051d95aa3eea4",
+          "465f641632bd1b339522c645dc4bd437"
         ]
       },
       {
@@ -68,9 +68,9 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "23282705c68036d7a98c7d3aa3f381ec",
+          "1aaa5db0dfc108b00320acb087712d2b",
+          "c33abab58725f3e5e76da91dddfb0856",
           "2a1bf071a93714a986c6cad14e00185c",
-          "0a9c015e75754aca7e05362886e78cb3",
           "be74c5cec98253a444316e8f55d57963"
         ]
       },
@@ -82,9 +82,9 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "72b9d4ec4dc0726cb851ef4951af190b",
-          "8727172b15790f060d184c2f60f715e5",
-          "0ae422708650766a694c9fd9d2b188cc",
+          "0a9c015e75754aca7e05362886e78cb3",
+          "876b9ddb84e9597ebb17413a91b93aff",
+          "23282705c68036d7a98c7d3aa3f381ec",
           "cc178351eb6826a4277d79babd181166"
         ]
       },
@@ -96,10 +96,10 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "55bbe1462d895bb51f5ff21f747169e3",
-          "bc094af0de4dc57ae12a009dbdc37880",
-          "cd42739d091780c644f75cb5982f293e",
-          "5de86ec1316e33981c65d9cbf2901488"
+          "f6dfd058f7eee46637e03a117d64f8b8",
+          "2288b0b5f73fe79d9908ff95987c0fd8",
+          "042f5ab6d931fa50e7eab0cce8b3c538",
+          "55bbe1462d895bb51f5ff21f747169e3"
         ]
       },
 	        {
@@ -110,10 +110,10 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "2c56b2ac2b300dd749cc424690bd9a76",
-          "8b5156bbe59a34bf4e2ae467d2626fa3",
-          "79c5880f2c92cb7dfec0f42a21c77c81",
-          "726287f4196df2b6334369df6fbc969d"
+          "11516f37557c1bd894a289f71d9ab158",
+          "256e992c5e33abeb98e3448c0aa81f07",
+          "64b4d34d41f4c3bddeb310a1cebdff41",
+          "758f69b418d25fd3ce8c47af12d98005"
         ]
       },
 	        {
@@ -125,9 +125,9 @@
         ],
         "md5": [
           "af84a58bd7fed5e8a0f306dd317ef641",
-          "472b4dc12111c788b2ebd1aaf7c9359e",
-          "a2eacfd5d1da52e820b2ba6be8a7a6ff",
-          "758f69b418d25fd3ce8c47af12d98005"
+          "2f4fa3c21247114da50d24a4ebeffb0e",
+          "857afefab23598230d1b18d0ee85d539",
+          "9adb0bcbeec423293fc0169528ad7d0d"
         ]
       },
 	        {
@@ -138,10 +138,10 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "6d8e50dff6c79921a0f1bb79386a8bbb",
-          "88b2b1fa3f7c3ea45af3ec74b7ea2436",
-          "36e9116788b8be2d775f7fbeb0cd8537",
-          "29b362ee80e3c6b9e542706fee51242e"
+          "4b4c9a7657b9878549c3676cd9caa40b",
+          "af9843bd7a3effe78b6111c23e6a05a7",
+          "62381acf0a11e65049ac38d299dee665",
+          "72b1e298656013f4f749de1619270a3c"
         ]
       },
 	        {
@@ -152,10 +152,24 @@
           { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
         ],
         "md5": [
-          "16bab81b273644caabbd4ad0877c7458",
           "a5cbc41e32a8da6a82632bb3eeac2424",
-          "a07285ffd1fca4155e92de0c96b42269",
-          "de6d6ca123ade7233dff175371245bff"
+          "735514761d47016f540be7b527aed4d0",
+          "8d9483c797d10912c2902e8988ada2ff",
+          "8e77656ad7e4c7632304ba4b126f8ae8"
+        ]
+      },
+			        {
+        "name": "ZERO Dimension段位認定 LEVEL13",
+        "constraint": ["grade_mirror", "gauge_lr2", "ln"],
+        "trophy": [
+          { "name": "silvermedal", "missrate": 5.0, "scorerate": 70.0 },
+          { "name": "goldmedal", "missrate": 2.5, "scorerate": 85.0 }
+        ],
+        "md5": [
+          "7563b03df6ee4e97c30ce64ed707b239",
+          "0408afcd856fa62a02cce732ef0cc8e0",
+          "c3ccbbbae61d0c9cdc46a25527413f71",
+          "cbdc4124a70397f820df4622a0fafe75"
         ]
       }
     ]
